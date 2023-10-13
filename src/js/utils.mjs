@@ -42,13 +42,10 @@ export function getParams(param){
 export async function loadHeaderFooter() {
   const header = await loadTemplate("../partials/header.html")
   const footer = await loadTemplate("../partials/footer.html");
-  const head = await loadTemplate("../partials/head.html");
   const domHeader = document.getElementById("Header");
   const domFooter = document.getElementById("Footer");
-  const domHead = document.getElementById("Head");
   renderWithTemplate(header, domHeader);  
   renderWithTemplate(footer, domFooter);
-  renderWithTemplate(head , domHead);
 }
 
 export async function loadTemplate(path) {
