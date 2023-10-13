@@ -11,7 +11,7 @@ export default class RecipeData {
     this.path = '../json/';
   }
 
-  getData(category) {
+  async getData(category) {
     const fullPath = `${this.path}${category}.json`;
     return fetch(fullPath)
       .then(convertToJson)

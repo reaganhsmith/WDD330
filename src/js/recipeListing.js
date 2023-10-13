@@ -8,6 +8,7 @@ var category = getParams("category");
 
 if (category) {
   const data = new RecipeData(category);
+  console.log(category);
   createPage(category, data);
 } else {
   category = getParams("group");

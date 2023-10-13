@@ -11,6 +11,7 @@ export default class RecipeListing {
     async init() {
         try {
             if(this.category === "main" || this.category === "sides" || this.category === "desserts"){
+                console.log(this.dataSource.getData(this.category))
                 this.recipes = await this.dataSource.getData(this.category);
         }else{
                 this.recipes = await this.dataSource.findRecipesByGroup(this.category);
