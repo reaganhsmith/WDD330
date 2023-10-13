@@ -1,19 +1,19 @@
- [
-    {
-      "Id": "D1",
-      "source": "https://www.onceuponachef.com/recipes/chocolate-mousse.html",
-      "Name": "Chocolate Mousse",
-      "Group": "GlutenFree",
-      "Time": {
-        "PrepTime": "20",
-        "CookTime": "20",
-        "TotalTime": "140"
-      },
-      
-      "Servings": "6",
-      "Image": "https://www.onceuponachef.com/images/2019/04/Chocolate-Mousse.jpg",
-      "Nutrition": [
-        {
+[
+  {
+    "Id": "D1",
+    "source": "https://www.onceuponachef.com/recipes/chocolate-mousse.html",
+    "Name": "Chocolate Mousse",
+    "Group": "GlutenFree",
+    "Time": {
+      "PrepTime": "20",
+      "CookTime": "20",
+      "TotalTime": "140"
+    },
+
+    "Servings": "6",
+    "Image": "https://www.onceuponachef.com/images/2019/04/Chocolate-Mousse.jpg",
+    "Nutrition": [
+      {
         "Calories": "415",
         "Carbs": "34",
         "Protein": "5",
@@ -32,27 +32,27 @@
       "2 teaspoons sugar",
       "Chocolate shavings"
     ],
-      "Instructions": "<ol><li>Place the butter in a medium microwave-safe bowl. Break the chocolate into small pieces directly into the bowl. Microwave it in 20-second intervals, stirring between each bout of heat, until the chocolate is about 75% melted. Stir, allowing the residual heat in the bowl to melt the chocolate completely. (Alternatively, place the chocolate and butter in a heatproof bowl and place over a saucepan containing about 1 inch of barely simmering water. Stir with a wooden spoon until the chocolate is melted and the mixture is smooth.) Let the mixture cool for a few minutes, then whisk in the egg yolks one at a time, mixing until smooth after each addition. Set aside.</li>  <li>In the bowl of a stand mixer or electric hand mixer, beat the egg whites on medium-high speed until foamy. Add the cream of tartar and beat until soft peaks form (the peaks should be just starting to hold, and will melt back into themselves after a second). Gradually beat in ¼ cup of the sugar and continue beating until stiff peaks form (the peaks will stand straight up when the beaters are lifted from the mixture). Using a large rubber spatula, fold the egg white mixture into the chocolate mixture until uniform. Set aside.</li>  <li>In another bowl, beat the heavy cream on medium-high speed until it begins to thicken up. Add the remaining 2 tablespoons of sugar and the vanilla and continue beating until the cream holds medium peaks (when you lift the beaters or whisk out of the bowl, the peaks will slightly droop down, but they won't lose their shape entirely). Fold the whipped cream into the chocolate mixture. Be sure it is fully incorporated but don't mix any more than necessary. Divide the mousse between 6 individual glasses, cover, and chill until set, at least 2 hours.</li>  <li>Up to a few hours before serving, whip the cream until it begins to thicken up. Add the sugar and whip to medium peaks. Dollop the whipped cream over the mousse and top with chocolate shavings. </li>   </ol>",
-      "Tags": {
-        "MealType": "Dessert",
-        "FoodType": "Chocolate",
-        "Category": "Dessert"
-      }
+    "Instructions": "<ol><li>Place the butter in a medium microwave-safe bowl. Break the chocolate into small pieces directly into the bowl. Microwave it in 20-second intervals, stirring between each bout of heat, until the chocolate is about 75% melted. Stir, allowing the residual heat in the bowl to melt the chocolate completely. (Alternatively, place the chocolate and butter in a heatproof bowl and place over a saucepan containing about 1 inch of barely simmering water. Stir with a wooden spoon until the chocolate is melted and the mixture is smooth.) Let the mixture cool for a few minutes, then whisk in the egg yolks one at a time, mixing until smooth after each addition. Set aside.</li>  <li>In the bowl of a stand mixer or electric hand mixer, beat the egg whites on medium-high speed until foamy. Add the cream of tartar and beat until soft peaks form (the peaks should be just starting to hold, and will melt back into themselves after a second). Gradually beat in ¼ cup of the sugar and continue beating until stiff peaks form (the peaks will stand straight up when the beaters are lifted from the mixture). Using a large rubber spatula, fold the egg white mixture into the chocolate mixture until uniform. Set aside.</li>  <li>In another bowl, beat the heavy cream on medium-high speed until it begins to thicken up. Add the remaining 2 tablespoons of sugar and the vanilla and continue beating until the cream holds medium peaks (when you lift the beaters or whisk out of the bowl, the peaks will slightly droop down, but they won't lose their shape entirely). Fold the whipped cream into the chocolate mixture. Be sure it is fully incorporated but don't mix any more than necessary. Divide the mousse between 6 individual glasses, cover, and chill until set, at least 2 hours.</li>  <li>Up to a few hours before serving, whip the cream until it begins to thicken up. Add the sugar and whip to medium peaks. Dollop the whipped cream over the mousse and top with chocolate shavings. </li>   </ol>",
+    "Tags": {
+      "MealType": "Dessert",
+      "FoodType": "Chocolate",
+      "Category": "Dessert"
+    }
+  },
+  {
+    "Id": "D2",
+    "source": "https://www.verybestbaking.com/toll-house/recipes/original-nestle-toll-house-chocolate-chip-cookies/",
+    "Name": "Chocolate Chip Cookies",
+    "Group": "Cookies",
+    "Time": {
+      "PrepTime": "15",
+      "CookTime": "9",
+      "TotalTime": "24"
     },
-    {
-      "Id": "D2",
-      "source": "https://www.verybestbaking.com/toll-house/recipes/original-nestle-toll-house-chocolate-chip-cookies/",
-      "Name": "Chocolate Chip Cookies",
-      "Group": "Cookies",
-      "Time": {
-        "PrepTime": "15",
-        "CookTime": "9",
-        "TotalTime": "24"
-      },
-      "Servings": "60",
-      "Image": "https://images.aws.nestle.recipes/original/5b069c3ed2feea79377014f6766fcd49_Original_NTH_Chocolate_Chip_Cookie.jpg",
-      "Nutrition": [
-        {
+    "Servings": "60",
+    "Image": "https://images.aws.nestle.recipes/original/5b069c3ed2feea79377014f6766fcd49_Original_NTH_Chocolate_Chip_Cookie.jpg",
+    "Nutrition": [
+      {
         "Calories": "--",
         "Carbs": "--",
         "Protein": "--",
@@ -60,46 +60,46 @@
       }
     ],
     "Ingredients": [
-"2 1/4 cups all-purpose flour",
-"1 teaspoon baking soda",
-"1 teaspoon salt",
-"1 cup (2 sticks) butter, softened",
-"3/4 cup granulated sugar",
-"3/4 cup packed brown sugar",
-"1 teaspoon vanilla extract",
-"2 large eggs",
-"2 cups (12-ounce package) NESTLÉ® TOLL HOUSE® Semi-Sweet Chocolate Morsels",
-"1 cup chopped nuts (Optional. If omitting, add 1 to 2 Tbsp. of all-purpose flour.)"
+      "2 1/4 cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "1 teaspoon salt",
+      "1 cup (2 sticks) butter, softened",
+      "3/4 cup granulated sugar",
+      "3/4 cup packed brown sugar",
+      "1 teaspoon vanilla extract",
+      "2 large eggs",
+      "2 cups (12-ounce package) NESTLÉ® TOLL HOUSE® Semi-Sweet Chocolate Morsels",
+      "1 cup chopped nuts (Optional. If omitting, add 1 to 2 Tbsp. of all-purpose flour.)"
     ],
-      "Instructions": "<ol><li>Preheat oven to 375° F.</li>    <li>Combine flour, baking soda and salt in small bowl. Beat butter, granulated sugar, brown sugar and vanilla extract in large mixer bowl until creamy. Add eggs, one at a time, beating well after each addition. Gradually beat in flour mixture. Stir in morsels and nuts. Drop by rounded tablespoon onto ungreased baking sheets.</li>    <li>Bake for 9 to 11 minutes or until golden brown. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.</li>    </ol>",
-      "Tags": {
-        "MealType": "Dessert",
-        "Method": "oven",
-        "Category": "Dessert",
-        "FoodType": "Chocolate"
-      }
+    "Instructions": "<ol><li>Preheat oven to 375° F.</li>    <li>Combine flour, baking soda and salt in small bowl. Beat butter, granulated sugar, brown sugar and vanilla extract in large mixer bowl until creamy. Add eggs, one at a time, beating well after each addition. Gradually beat in flour mixture. Stir in morsels and nuts. Drop by rounded tablespoon onto ungreased baking sheets.</li>    <li>Bake for 9 to 11 minutes or until golden brown. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.</li>    </ol>",
+    "Tags": {
+      "MealType": "Dessert",
+      "Method": "oven",
+      "Category": "Dessert",
+      "FoodType": "Chocolate"
+    }
+  },
+  {
+    "Id": "D3",
+    "source": "https://cooking.nytimes.com/recipes/1021714-frosted-sugar-cookies",
+    "Name": "Frosted Sugar Cookie",
+    "Group": "Cookies",
+    "Time": {
+      "PrepTime": "--",
+      "CookTime": "--",
+      "TotalTime": "55"
     },
-    {
-      "Id": "D3",
-      "source": "https://cooking.nytimes.com/recipes/1021714-frosted-sugar-cookies",
-      "Name": "Frosted Sugar Cookie",
-      "Group": "Cookies",
-      "Time": {
-        "PrepTime": "--",
-        "CookTime": "--",
-        "TotalTime": "55"
-      },
-      "Servings": "15",
-      "Image": "https://celebratingsweets.com/wp-content/uploads/2021/12/Frosted-Sugar-Cookies-7.jpg",
-      "Nutrition": [
-        {
+    "Servings": "15",
+    "Image": "https://celebratingsweets.com/wp-content/uploads/2021/12/Frosted-Sugar-Cookies-7.jpg",
+    "Nutrition": [
+      {
         "Calories": "--",
         "Carbs": "--",
         "Protein": "--",
         "Fats": "--"
       }
     ],
-    "Ingredients":[
+    "Ingredients": [
       "½ cup/115 grams unsalted butter (1 stick), at room temperature",
       "3 ounces/85 grams cream cheese, at room temperature",
       "1 cup/200 grams granulated sugar",
@@ -115,35 +115,35 @@
       "1 teaspoon vanilla extract",
       "Pinch of kosher salt"
     ],
-      "Instructions": "<ol>  <li>Make the cookies: In a large bowl, using a spoon, cream the butter, cream cheese, sugar and salt until smooth and fluffy. Add the eggs and vanilla extract, and whisk to incorporate some air and to dissolve the sugar crystals, about 1 minute. Stir in the flour and baking powder until just incorporated.</li>    <li>Heat oven to 350 degrees and line two rimmed sheet pans with parchment paper. Using two spoons or a cookie scooper, plop out 2-tablespoon/50-gram rounds spaced a couple of inches apart. (You should get about 7 to 8 cookies per sheet pan.) Place the sheet pans in the freezer for 15 to 20 minutes until the dough is no longer sticky and easier to handle.</li>    <li>While the dough chills, make the frosting: In a fine-mesh sieve set over a medium bowl, sift the ground raspberries, using a spoon to help pass them through, until most of the ruby-red powder is in the bowl and most of the seeds are left behind in the sieve. (Discard the seeds.)</li>    <li>To the bowl, add the 1 cup butter, confectioners’ sugar, vanilla extract and salt and, with an electric hand mixer, mix on low speed until the butter absorbs the sugar. Then, turn the speed up to high and beat until the frosting doubles in size, about 2 minutes, scraping down the sides of the bowl with a rubber spatula to ensure all the ingredients are incorporated. Transfer the frosting to a small container, cover tightly, and set aside. (You should have about 2 cups of frosting.)</li>    <li>Remove the sheet pans from the freezer. Roll the chilled dough into even balls and flatten them slightly with your fingers so they’re about 2 inches wide and 1 inch high. Bake the cookies for 13 to 15 minutes, rotating the pans and switching racks halfway through, or until they no longer look wet on top, are still light in color and spring back to the touch. They will puff up and crack slightly. Let cool completely on the sheet pan. (They will continue to cook as they sit.)</li>    <li>Using a butter knife or offset spatula, frost each cooled cookie with the raspberry frosting and adorn with the sprinkles.</li></ol>",
-      "Tags": {
-        "MealType": "Dessert",
-        "Method": "Oven",
-        "FoodType": "Dessert",
-        "Category": "Cookie"
-      }
+    "Instructions": "<ol>  <li>Make the cookies: In a large bowl, using a spoon, cream the butter, cream cheese, sugar and salt until smooth and fluffy. Add the eggs and vanilla extract, and whisk to incorporate some air and to dissolve the sugar crystals, about 1 minute. Stir in the flour and baking powder until just incorporated.</li>    <li>Heat oven to 350 degrees and line two rimmed sheet pans with parchment paper. Using two spoons or a cookie scooper, plop out 2-tablespoon/50-gram rounds spaced a couple of inches apart. (You should get about 7 to 8 cookies per sheet pan.) Place the sheet pans in the freezer for 15 to 20 minutes until the dough is no longer sticky and easier to handle.</li>    <li>While the dough chills, make the frosting: In a fine-mesh sieve set over a medium bowl, sift the ground raspberries, using a spoon to help pass them through, until most of the ruby-red powder is in the bowl and most of the seeds are left behind in the sieve. (Discard the seeds.)</li>    <li>To the bowl, add the 1 cup butter, confectioners’ sugar, vanilla extract and salt and, with an electric hand mixer, mix on low speed until the butter absorbs the sugar. Then, turn the speed up to high and beat until the frosting doubles in size, about 2 minutes, scraping down the sides of the bowl with a rubber spatula to ensure all the ingredients are incorporated. Transfer the frosting to a small container, cover tightly, and set aside. (You should have about 2 cups of frosting.)</li>    <li>Remove the sheet pans from the freezer. Roll the chilled dough into even balls and flatten them slightly with your fingers so they’re about 2 inches wide and 1 inch high. Bake the cookies for 13 to 15 minutes, rotating the pans and switching racks halfway through, or until they no longer look wet on top, are still light in color and spring back to the touch. They will puff up and crack slightly. Let cool completely on the sheet pan. (They will continue to cook as they sit.)</li>    <li>Using a butter knife or offset spatula, frost each cooled cookie with the raspberry frosting and adorn with the sprinkles.</li></ol>",
+    "Tags": {
+      "MealType": "Dessert",
+      "Method": "Oven",
+      "FoodType": "Dessert",
+      "Category": "Cookie"
+    }
+  },
+  {
+    "Id": "D4",
+    "source": "https://happyhomeschoolnest.com/no-bake-funfetti-cheesecake/?ssp_iabi=1683916227872",
+    "Name": "No Bake Funfetti Cheesecake",
+    "Group": "Cake",
+    "Time": {
+      "PrepTime": "10",
+      "CookTime": "0",
+      "TotalTime": "10"
     },
-    {
-      "Id": "D4",
-      "source": "https://happyhomeschoolnest.com/no-bake-funfetti-cheesecake/?ssp_iabi=1683916227872",
-      "Name": "No Bake Funfetti Cheesecake",
-      "Group": "Cake",
-      "Time": {
-        "PrepTime": "10",
-        "CookTime": "0",
-        "TotalTime": "10"
-      },
-      "Servings": "8",
-      "Image": "https://happyhomeschoolnest.com/wp-content/uploads/2022/03/No-Bake-Funfetti-Cheesecake-23-1-scaled.jpg",
-      "Nutrition": [
-        {
+    "Servings": "8",
+    "Image": "https://happyhomeschoolnest.com/wp-content/uploads/2022/03/No-Bake-Funfetti-Cheesecake-23-1-scaled.jpg",
+    "Nutrition": [
+      {
         "Calories": "--",
         "Carbs": "--",
         "Protein": "--",
         "Fats": "--"
       }
     ],
-    "Ingredients":[
+    "Ingredients": [
       "12 ounces cream cheese, softened at room temperature",
       "1 cup yellow cake mix, powder form",
       "½ cup granulated sugar",
@@ -153,12 +153,12 @@
       "Extra whipped topping for garnish",
       "Extra sprinkles for garnish"
     ],
-      "Instructions": "<ol>  <li>In a large bowl beat the cream cheese with the hand mixer until it is light and fluff. Add the dry cake mix and the granulated sugar and mix on medium speed until these are well combined</li><li>Using a spatula, fold in the 8 ounces of thawed Cool Whip whipped topping. Add in the ¼ cup of sprinkles and combine so they are spread out</li><li>Pour the mixture into a premade graham cracker pie crust and smooth out the top</li> <li>Refrigerate for at least 3 to 4 hours before serving. Before serving, garnish with dollops of whipped topping and sprinkle a few sprinkles on each dollop of whipped topping.Enjoy!</li></ol>",
-      "Tags": {
-        "MealType": "Dessert",
-        "Method": "No Bake",
-        "Category": "Cake"
-      }
+    "Instructions": "<ol>  <li>In a large bowl beat the cream cheese with the hand mixer until it is light and fluff. Add the dry cake mix and the granulated sugar and mix on medium speed until these are well combined</li><li>Using a spatula, fold in the 8 ounces of thawed Cool Whip whipped topping. Add in the ¼ cup of sprinkles and combine so they are spread out</li><li>Pour the mixture into a premade graham cracker pie crust and smooth out the top</li> <li>Refrigerate for at least 3 to 4 hours before serving. Before serving, garnish with dollops of whipped topping and sprinkle a few sprinkles on each dollop of whipped topping.Enjoy!</li></ol>",
+    "Tags": {
+      "MealType": "Dessert",
+      "Method": "No Bake",
+      "Category": "Cake"
+    }
   },
   {
     "Id": "D5",
@@ -174,224 +174,224 @@
     "Image": "https://togetherasfamily.com/wp-content/uploads/2015/05/smores-cookie-cups-4-500x500.jpg",
     "Nutrition": [
       {
-      "Calories": "--",
-      "Carbs": "--",
-      "Protein": "--",
-      "Fats": "--"
-    }
-  ],
-  "Ingredients":[
-    "1 cup graham cracker crumbs",
-    "1 1/4 cups flour",
-    "1/2 teaspoon baking soda",
-    "1/4 teaspoon salt (use 1/2 teaspoon if using unsalted butter)",
-    "1/2 cup butter, softened",
-    "1/2 cup brown sugar",
-    "1/3 cup sugar",
-    "1 large egg",
-    "1 teaspoon vanilla extract",
-    "12 large marshmallows, cut in half",
-    "2 Hershey's (1.55 oz each) chocolate bars"
-  ],
+        "Calories": "--",
+        "Carbs": "--",
+        "Protein": "--",
+        "Fats": "--"
+      }
+    ],
+    "Ingredients": [
+      "1 cup graham cracker crumbs",
+      "1 1/4 cups flour",
+      "1/2 teaspoon baking soda",
+      "1/4 teaspoon salt (use 1/2 teaspoon if using unsalted butter)",
+      "1/2 cup butter, softened",
+      "1/2 cup brown sugar",
+      "1/3 cup sugar",
+      "1 large egg",
+      "1 teaspoon vanilla extract",
+      "12 large marshmallows, cut in half",
+      "2 Hershey's (1.55 oz each) chocolate bars"
+    ],
     "Instructions": "<ol>  <li>Preheat oven to 350 degrees. Spray a mini muffin pan with cooking spray.</li><li>In a small mixing bowl, combine graham cracker crumbs, flour, baking soda, and salt. Stir with a wire whisk. Set aside.</li><li>In larger bowl, with a handheld electric mixer, blend the butter, brown sugar, and sugar until creamy and combined.</li><li>Add in egg and vanilla extract. Mix well.</li><li>Dump in the bowl of dry ingredients, mix on low speed just until combined. The dough will be crumbly.</li><li>Scoop dough into the mini muffin tins. Fill them full and press down slightly so the dough is even on top. You will have the perfect amount of dough to fill all 24 mini muffin tins.</li><li>Bake for 8 minutes. They will look like they're not done, but trust me, they'll be perfect.</li><li>Immediately after baking, take a teaspoon size measuring spoon and press into the dough. You want to make an indent for the marshmallow to sit in. Place a half of marshmallow into each indent in the muffin cups. Sticky side of the marshmallow down.</li><li>Let cool for 20 minutes.</li><li>Place one square of chocolate on top of each marshmallow.</li><li>Turn the oven broiler to high. Place muffin tin pan under the broiler for 1-2 minutes. Watch carefully. This toasts the marshmallows fast.</li><li>Let cool for about 10 minutes and eat right away for a warm, gooey s'more or let cool completely.</li></ol>",
     "Tags": {
       "MealType": "Dessert",
       "Method": "Oven",
       "Category": "Cookies"
     }
-},
-{
-  "Id": "D6",
-  "source": "https://stripedspatula.com/chocolate-covered-caramel-apple-slices/",
-  "Name": "Chocolate Covered Apple Slices",
-  "Group": "Dessert",
-  "Time": {
-    "PrepTime": "40",
-    "CookTime": "20",
-    "TotalTime": "60"
   },
-  "Servings": "12",
-  "Image": "https://stripedspatula.com/wp-content/uploads/2021/10/caramel-apple-slices-14-360x360.jpg",
-  "Nutrition": [
-    {
-    "Calories": "287",
-    "Carbs": "44",
-    "Protein": "3",
-    "Fats": "13"
-  }
-],
-"Ingredients":[
-  "3 large granny smith or honeycrisp apples , washed and dried well",
-  "10 ounces milk or dark chocolate melting wafers (such as Ghirardelli)",
-  "8 ounces soft caramel squares (1 cup), unwrapped (such as Kraft)",
-  "2 tablespoons heavy cream",
-  "1 cup complementary variety chocolate melting wafers , optional but recommended (see note)",
-  "mini M&M's, chopped nuts , and/or other assorted small toppings of your choosing*"
-],
-  "Instructions": "<ol>  <li>Line a sheet pan with parchment paper or a silicone baking mat and set aside.</li><li>Slice each apple from top to bottom into 4 or 5 slices, about ½-inch wide. You can go as thick as ¾-inches, but we find anything thicker cumbersome on the popsicle stick. Use a melon baller and the tip of a paring knife to remove the stem and carve out any seeds or fibrous core. (Don't dig all the way through the apple slice with the melon baller.)</li><li>Insert a 10 mm wide, food-grade wooden popsicle stick into the center of each apple slice from the bottom, pushing it about halfway into the fruit. (If needed, use a paring knife to cut a slit in the bottom of the apple slice before inserting the popsicle stick; the need to do this will vary by apple.)</li><li>Melt the milk or dark chocolate wafers in a double boiler or the microwave according to package directions. Immediately before dipping the apples, pat them very dry with paper towels on all sides. Dip the entire apple slice into the chocolate, just past where the popsicle meets the fruit, allowing extra chocolate to drip off.</li><li>Place the apples onto the prepared sheet pan in a single layer, making sure they aren't touching each other. Refrigerate for 5-10 minutes, until the chocolate is set.</li><li>While the apples are chilling, place caramel squares in a microwave-safe bowl. Add the heavy cream and microwave on high for 20-30 seconds at a time, stirring between intervals until the mixture is melted and smooth. Set aside to cool.</li><li>If you're adding extra chocolate drizzles over the caramel, melt the wafers in a double boiler or the microwave according to package directions. Let both the caramel and extra chocolate cool a bit until they're warm and still fluid enough to drizzle. (If too hot, they will run together and will risk melting the chocolate coating on the apples.)</li><li>Using a spoon, drizzle the caramel over the chocolate-dipped apple slices, followed by the extra chocolate, if using. Immediately sprinkle with your favorite toppings. Refrigerate for an additional 10-15 minutes, until the chocolate and caramel are set.</li><li>For best flavor and texture, serve the apples the day you make them, within a few hours of assembly. Refrigerate until ready to enjoy. We do not recommend assembling the caramel apple slices for overnight storage before serving.</li></ol>",
-  "Tags": {
-    "MealType": "Dessert",
-    "Method": "Microwave",
-    "Category": "Fruit"
-  }
-},
-{
-  "Id": "D7",
-  "source": "https://cookiesandcups.com/super-soft-sprinkle-pudding-cookies/",
-  "Name": "Sprinkle Pudding Cookies",
-  "Group": "Cookies",
-  "Time": {
-    "PrepTime": "10",
-    "CookTime": "10",
-    "TotalTime": "20"
+  {
+    "Id": "D6",
+    "source": "https://stripedspatula.com/chocolate-covered-caramel-apple-slices/",
+    "Name": "Chocolate Covered Apple Slices",
+    "Group": "Dessert",
+    "Time": {
+      "PrepTime": "40",
+      "CookTime": "20",
+      "TotalTime": "60"
+    },
+    "Servings": "12",
+    "Image": "https://stripedspatula.com/wp-content/uploads/2021/10/caramel-apple-slices-14-360x360.jpg",
+    "Nutrition": [
+      {
+        "Calories": "287",
+        "Carbs": "44",
+        "Protein": "3",
+        "Fats": "13"
+      }
+    ],
+    "Ingredients": [
+      "3 large granny smith or honeycrisp apples , washed and dried well",
+      "10 ounces milk or dark chocolate melting wafers (such as Ghirardelli)",
+      "8 ounces soft caramel squares (1 cup), unwrapped (such as Kraft)",
+      "2 tablespoons heavy cream",
+      "1 cup complementary variety chocolate melting wafers , optional but recommended (see note)",
+      "mini M&M's, chopped nuts , and/or other assorted small toppings of your choosing*"
+    ],
+    "Instructions": "<ol>  <li>Line a sheet pan with parchment paper or a silicone baking mat and set aside.</li><li>Slice each apple from top to bottom into 4 or 5 slices, about ½-inch wide. You can go as thick as ¾-inches, but we find anything thicker cumbersome on the popsicle stick. Use a melon baller and the tip of a paring knife to remove the stem and carve out any seeds or fibrous core. (Don't dig all the way through the apple slice with the melon baller.)</li><li>Insert a 10 mm wide, food-grade wooden popsicle stick into the center of each apple slice from the bottom, pushing it about halfway into the fruit. (If needed, use a paring knife to cut a slit in the bottom of the apple slice before inserting the popsicle stick; the need to do this will vary by apple.)</li><li>Melt the milk or dark chocolate wafers in a double boiler or the microwave according to package directions. Immediately before dipping the apples, pat them very dry with paper towels on all sides. Dip the entire apple slice into the chocolate, just past where the popsicle meets the fruit, allowing extra chocolate to drip off.</li><li>Place the apples onto the prepared sheet pan in a single layer, making sure they aren't touching each other. Refrigerate for 5-10 minutes, until the chocolate is set.</li><li>While the apples are chilling, place caramel squares in a microwave-safe bowl. Add the heavy cream and microwave on high for 20-30 seconds at a time, stirring between intervals until the mixture is melted and smooth. Set aside to cool.</li><li>If you're adding extra chocolate drizzles over the caramel, melt the wafers in a double boiler or the microwave according to package directions. Let both the caramel and extra chocolate cool a bit until they're warm and still fluid enough to drizzle. (If too hot, they will run together and will risk melting the chocolate coating on the apples.)</li><li>Using a spoon, drizzle the caramel over the chocolate-dipped apple slices, followed by the extra chocolate, if using. Immediately sprinkle with your favorite toppings. Refrigerate for an additional 10-15 minutes, until the chocolate and caramel are set.</li><li>For best flavor and texture, serve the apples the day you make them, within a few hours of assembly. Refrigerate until ready to enjoy. We do not recommend assembling the caramel apple slices for overnight storage before serving.</li></ol>",
+    "Tags": {
+      "MealType": "Dessert",
+      "Method": "Microwave",
+      "Category": "Fruit"
+    }
   },
-  "Servings": "24",
-  "Image": "https://cookiesandcups.com/wp-content/uploads/2015/09/puddingsprinkle-1-4-570x855.jpg",
-  "Nutrition": [
-    {
-    "Calories": "140",
-    "Carbs": "20",
-    "Protein": "1",
-    "Fats": "6"
-  }
-],
-"Ingredients":[
-  "3/4 cup butter",
-  "1 cup granulated sugar",
-  "1 egg, plus 1 yolk",
-  "1 teaspoon vanilla",
-  "1 teaspoon baking soda",
-  "1/2 teaspoon kosher salt",
-  "1 (3.5-ounce packet instant vanilla pudding mix)",
-  "2 cups flour",
-  "1/2 cup sprinkles"
-],
-  "Instructions": "<ol>  <li>Preheat oven to 350°F. Line a baking sheet with parchment paper and set aside.</li><li>In the bowl of your stand mixer fitted with the paddle attachment beat the butter and sugar on medium speed for 2 minutes. Add in the egg, yolk, vanilla, baking soda and salt. Mix until combined, scraping the sides of the bowl as necessary.</li><li>Next mix in the pudding mix for 30 seconds.</li><li>Turn the mixer to low and add in the flour, mixing until just combined.</li><li>Finally add in the sprinkles and mix until incorporated evenly.</li><li>Using a medium (2 tablespoon) sized cookie scoop drop dough onto the prepared baking sheet 2 inches apart. Bake for 8-10 minutes until the cookies are almost set. Don’t over-bake if you want super soft soft cookies.</li><li>Allow the cookies to cool on the baking sheet for 3 minutes before transferring to a wire rack to cool completely.</li></ol>",
-  "Tags": {
-    "MealType": "Dessert",
-    "Method": "Oven",
-    "Category": "Cookies"
-  }
-},
-{
-  "Id": "D8",
-  "source": "https://www.halfbakedharvest.com/easiest-cinnamon-crunch-knots/?t=1",
-  "Name": "Cinnamon Cruch Knots",
-  "Group": "Bread",
-  "Time": {
-    "PrepTime": "30",
-    "CookTime": "20",
-    "TotalTime": "50"
+  {
+    "Id": "D7",
+    "source": "https://cookiesandcups.com/super-soft-sprinkle-pudding-cookies/",
+    "Name": "Sprinkle Pudding Cookies",
+    "Group": "Cookies",
+    "Time": {
+      "PrepTime": "10",
+      "CookTime": "10",
+      "TotalTime": "20"
+    },
+    "Servings": "24",
+    "Image": "https://cookiesandcups.com/wp-content/uploads/2015/09/puddingsprinkle-1-4-570x855.jpg",
+    "Nutrition": [
+      {
+        "Calories": "140",
+        "Carbs": "20",
+        "Protein": "1",
+        "Fats": "6"
+      }
+    ],
+    "Ingredients": [
+      "3/4 cup butter",
+      "1 cup granulated sugar",
+      "1 egg, plus 1 yolk",
+      "1 teaspoon vanilla",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon kosher salt",
+      "1 (3.5-ounce packet instant vanilla pudding mix)",
+      "2 cups flour",
+      "1/2 cup sprinkles"
+    ],
+    "Instructions": "<ol>  <li>Preheat oven to 350°F. Line a baking sheet with parchment paper and set aside.</li><li>In the bowl of your stand mixer fitted with the paddle attachment beat the butter and sugar on medium speed for 2 minutes. Add in the egg, yolk, vanilla, baking soda and salt. Mix until combined, scraping the sides of the bowl as necessary.</li><li>Next mix in the pudding mix for 30 seconds.</li><li>Turn the mixer to low and add in the flour, mixing until just combined.</li><li>Finally add in the sprinkles and mix until incorporated evenly.</li><li>Using a medium (2 tablespoon) sized cookie scoop drop dough onto the prepared baking sheet 2 inches apart. Bake for 8-10 minutes until the cookies are almost set. Don’t over-bake if you want super soft soft cookies.</li><li>Allow the cookies to cool on the baking sheet for 3 minutes before transferring to a wire rack to cool completely.</li></ol>",
+    "Tags": {
+      "MealType": "Dessert",
+      "Method": "Oven",
+      "Category": "Cookies"
+    }
   },
-  "Servings": "12",
-  "Image": "https://www.halfbakedharvest.com/wp-content/uploads/2018/03/Easiest-Cinnamon-Crunch-Knots-1.jpg",
-  "Nutrition": [
-    {
-    "Calories": "274",
-    "Carbs": "--",
-    "Protein": "--",
-    "Fats": "--"
-  }
-],
-"Ingredients":[
-  "2 1/2 - 3 cups white whole wheat or all-purpose flour, plus more as needed",
-  "1 packet (2 1/4 teaspoons) instant yeast (see notes for no yeast option)",
-  "1/4 teaspoon kosher salt",
-  "1 cup warm water or warm milk",
-  "2 teaspoons honey",
-  "7 tablespoons salted butter, at room temperature",
-  "1/4 cup granulated sugar",
-  "3 teaspoons cinnamon",
-  "1/2 cup brown sugar",
-  "1 cup powdered sugar",
-  "2 tablespoons cream cheese at room temperature",
-  "1 teaspoon pure vanilla extract"
-],
-  "Instructions": "<ol>  <li> In the bowl of a stand mixer fitted with the dough hook, combine 2 1/2 cups flour, the instant yeast, and salt. Add the milk or water, honey, and 1 tablespoon butter. Knead on medium speed until the dough comes together, 1-2 minutes, adding in additional flour, as needed, until the dough pulls away from the sides of the bowl and is smooth. Cover and let rise in a warm place for 30 minutes to 1 hour.</li><li>Preheat the oven to 375 degrees F. Line a baking sheet with parchment paper. </li><li>In a bowl, combine the granulated sugar and 1 teaspoon cinnamon.</li><li>On a floured surface, roll the dough out into a rectangle about 1/4 inch thick, adding flour to the dough if it is sticky. Spread the dough with 4 tablespoons butter and sprinkle with cinnamon sugar. Fold the dough in half and cut into 12 strips. Twist each strip and then tie into a loose knot, it doesn't need to be perfect. Place on the prepared baking sheet. </li><li>Melt the remaining 2 tablespoons butter. Stir the melted butter together with the remaining 2 teaspoons cinnamon and the brown sugar. Spoon clumps of the brown sugar mix over the knots (see above photo). This is going to be your crunch layer.</li><li> Transfer to the oven and bake 8-10 minutes. Remove from the oven and working quickly, carefully spoon any of the brown sugar that has melted off back over the rolls. It doesn't need to look perfect. Return to the oven and continue baking another 8-10 minutes, until golden.</li><li>Meanwhile, make the Glaze. In a medium bowl, beat together the powdered sugar, cream cheese, vanilla, and 2 tablespoons water until smooth and combined. If needed, thin the glaze by adding water, 1 tablespoon at a time, until desired consistency is reached. </li><li> Drizzle glaze over the knots, if desired. Enjoy!</li></ol>",
-  "Tags": {
-    "MealType": "Dessert",
-    "Method": "Oven",
-    "Category": "Bread"
-  }
-},
-{
-  "Id": "D9",
-  "source": "https://www.crazyforcrust.com/pumpkin-spice-snickerdoodles/",
-  "Name": "Pumpkin Spice Snickerdoodles",
-  "Group": "Cookies",
-  "Time": {
-    "PrepTime": "15",
-    "CookTime": "10",
-    "TotalTime": "25"
+  {
+    "Id": "D8",
+    "source": "https://www.halfbakedharvest.com/easiest-cinnamon-crunch-knots/?t=1",
+    "Name": "Cinnamon Cruch Knots",
+    "Group": "Bread",
+    "Time": {
+      "PrepTime": "30",
+      "CookTime": "20",
+      "TotalTime": "50"
+    },
+    "Servings": "12",
+    "Image": "https://www.halfbakedharvest.com/wp-content/uploads/2018/03/Easiest-Cinnamon-Crunch-Knots-1.jpg",
+    "Nutrition": [
+      {
+        "Calories": "274",
+        "Carbs": "--",
+        "Protein": "--",
+        "Fats": "--"
+      }
+    ],
+    "Ingredients": [
+      "2 1/2 - 3 cups white whole wheat or all-purpose flour, plus more as needed",
+      "1 packet (2 1/4 teaspoons) instant yeast (see notes for no yeast option)",
+      "1/4 teaspoon kosher salt",
+      "1 cup warm water or warm milk",
+      "2 teaspoons honey",
+      "7 tablespoons salted butter, at room temperature",
+      "1/4 cup granulated sugar",
+      "3 teaspoons cinnamon",
+      "1/2 cup brown sugar",
+      "1 cup powdered sugar",
+      "2 tablespoons cream cheese at room temperature",
+      "1 teaspoon pure vanilla extract"
+    ],
+    "Instructions": "<ol>  <li> In the bowl of a stand mixer fitted with the dough hook, combine 2 1/2 cups flour, the instant yeast, and salt. Add the milk or water, honey, and 1 tablespoon butter. Knead on medium speed until the dough comes together, 1-2 minutes, adding in additional flour, as needed, until the dough pulls away from the sides of the bowl and is smooth. Cover and let rise in a warm place for 30 minutes to 1 hour.</li><li>Preheat the oven to 375 degrees F. Line a baking sheet with parchment paper. </li><li>In a bowl, combine the granulated sugar and 1 teaspoon cinnamon.</li><li>On a floured surface, roll the dough out into a rectangle about 1/4 inch thick, adding flour to the dough if it is sticky. Spread the dough with 4 tablespoons butter and sprinkle with cinnamon sugar. Fold the dough in half and cut into 12 strips. Twist each strip and then tie into a loose knot, it doesn't need to be perfect. Place on the prepared baking sheet. </li><li>Melt the remaining 2 tablespoons butter. Stir the melted butter together with the remaining 2 teaspoons cinnamon and the brown sugar. Spoon clumps of the brown sugar mix over the knots (see above photo). This is going to be your crunch layer.</li><li> Transfer to the oven and bake 8-10 minutes. Remove from the oven and working quickly, carefully spoon any of the brown sugar that has melted off back over the rolls. It doesn't need to look perfect. Return to the oven and continue baking another 8-10 minutes, until golden.</li><li>Meanwhile, make the Glaze. In a medium bowl, beat together the powdered sugar, cream cheese, vanilla, and 2 tablespoons water until smooth and combined. If needed, thin the glaze by adding water, 1 tablespoon at a time, until desired consistency is reached. </li><li> Drizzle glaze over the knots, if desired. Enjoy!</li></ol>",
+    "Tags": {
+      "MealType": "Dessert",
+      "Method": "Oven",
+      "Category": "Bread"
+    }
   },
-  "Servings": "24",
-  "Image": "https://www.crazyforcrust.com/wp-content/uploads/2023/09/Pumpkin-Spice-Snickerdoodles-1-488x488.jpg",
-  "Nutrition": [
-    {
-    "Calories": "181",
-    "Carbs": "23",
-    "Protein": "2",
-    "Fats": "9"
-  }
-],
-"Ingredients":[
-  "¾ cup (170g) unsalted butter",
-  "¾ cup (150g) granulated sugar",
-  "1 large egg",
-  "1 teaspoon vanilla extract",
-  "½ teaspoon baking soda",
-  "½ teaspoon cream of tartar",
-  "1 teaspoon pumpkin pie spice",
-  "½ teaspoon salt",
-  "2 cups (248g) all purpose flour",
-  "2 teaspoons pumpkin pie spice",
-  "⅓ cup (67g) granulated sugar"
-],
-  "Instructions": "<ol>  <li>Preheat oven to 350°F. Line two cookie sheets with parchment paper or silpat baking mats.</li><li>Cream butter and 3/4 cup sugar with a stand mixer fitted with the paddle attachment (or you may use a hand mixer). Once the mixture is creamed and fluffy, mix in the egg and vanilla extract until smooth, then mix in the baking soda, cream of tartar, pumpkin spice and salt. Slowly mix in flour until the mixture is just combined.</li><li>Place remaining 1/3 cup sugar and pumpkin spice in a small bowl and stir.</li><li>Scoop 2 tablespoon sized balls of cookie dough and roll them in the cinnamon sugar, then place them 2” apart on the prepared cookie sheets. Bake for 9-11 minutes, or until the bottoms just start to turn golden brown. (These taste better if you err on the side of under rather than over done). Cool at least 5 minutes on cookie sheet before removing.</li><li>Store in an airtight container for up to 3 days or freeze for up to 1 month.</li></ol>",
-  "Tags": {
-    "MealType": "Dessert",
-    "Method": "Oven",
-    "Category": "Cookies"
-  }
-},
-{
-  "Id": "D10",
-  "source": "https://www.justsotasty.com/no-bake-pumpkin-cheesecake/",
-  "Name": "Pumpkin Spice Snickerdoodles",
-  "Group": "Cake",
-  "Time": {
-    "PrepTime": "20",
-    "CookTime": "400",
-    "TotalTime": "420"
+  {
+    "Id": "D9",
+    "source": "https://www.crazyforcrust.com/pumpkin-spice-snickerdoodles/",
+    "Name": "Pumpkin Spice Snickerdoodles",
+    "Group": "Cookies",
+    "Time": {
+      "PrepTime": "15",
+      "CookTime": "10",
+      "TotalTime": "25"
+    },
+    "Servings": "24",
+    "Image": "https://www.crazyforcrust.com/wp-content/uploads/2023/09/Pumpkin-Spice-Snickerdoodles-1-488x488.jpg",
+    "Nutrition": [
+      {
+        "Calories": "181",
+        "Carbs": "23",
+        "Protein": "2",
+        "Fats": "9"
+      }
+    ],
+    "Ingredients": [
+      "¾ cup (170g) unsalted butter",
+      "¾ cup (150g) granulated sugar",
+      "1 large egg",
+      "1 teaspoon vanilla extract",
+      "½ teaspoon baking soda",
+      "½ teaspoon cream of tartar",
+      "1 teaspoon pumpkin pie spice",
+      "½ teaspoon salt",
+      "2 cups (248g) all purpose flour",
+      "2 teaspoons pumpkin pie spice",
+      "⅓ cup (67g) granulated sugar"
+    ],
+    "Instructions": "<ol>  <li>Preheat oven to 350°F. Line two cookie sheets with parchment paper or silpat baking mats.</li><li>Cream butter and 3/4 cup sugar with a stand mixer fitted with the paddle attachment (or you may use a hand mixer). Once the mixture is creamed and fluffy, mix in the egg and vanilla extract until smooth, then mix in the baking soda, cream of tartar, pumpkin spice and salt. Slowly mix in flour until the mixture is just combined.</li><li>Place remaining 1/3 cup sugar and pumpkin spice in a small bowl and stir.</li><li>Scoop 2 tablespoon sized balls of cookie dough and roll them in the cinnamon sugar, then place them 2” apart on the prepared cookie sheets. Bake for 9-11 minutes, or until the bottoms just start to turn golden brown. (These taste better if you err on the side of under rather than over done). Cool at least 5 minutes on cookie sheet before removing.</li><li>Store in an airtight container for up to 3 days or freeze for up to 1 month.</li></ol>",
+    "Tags": {
+      "MealType": "Dessert",
+      "Method": "Oven",
+      "Category": "Cookies"
+    }
   },
-  "Servings": "12",
-  "Image": "https://www.justsotasty.com/wp-content/uploads/2018/08/No-Bake-Pumpkin-Cheesecake-10.jpg",
-  "Nutrition": [
-    {
-    "Calories": "426",
-    "Carbs": "34",
-    "Protein": "5",
-    "Fats": "31"
+  {
+    "Id": "D10",
+    "source": "https://www.justsotasty.com/no-bake-pumpkin-cheesecake/",
+    "Name": "Pumpkin Spice Snickerdoodles",
+    "Group": "Cake",
+    "Time": {
+      "PrepTime": "20",
+      "CookTime": "400",
+      "TotalTime": "420"
+    },
+    "Servings": "12",
+    "Image": "https://www.justsotasty.com/wp-content/uploads/2018/08/No-Bake-Pumpkin-Cheesecake-10.jpg",
+    "Nutrition": [
+      {
+        "Calories": "426",
+        "Carbs": "34",
+        "Protein": "5",
+        "Fats": "31"
+      }
+    ],
+    "Ingredients": [
+      "1 ½ cups graham crumbs",
+      "2 tabelspoons brown sugar",
+      "½ teaspoon cinnamon",
+      "6 tablespoons unsalted butter , melted",
+      "2 cups pumpkin puree , or use a 15oz can",
+      "⅔ cup heavy cream , 33% MF or more",
+      "24 oz cream cheese , use brick-style, full-fat cream cheese",
+      "1 cup powdered sugar",
+      "½ cup brown sugar",
+      "1 tablespoon pumpkin pie spice , or make your own - see recipe notes",
+      "2 teaspoons vanilla extract"
+    ],
+    "Instructions": "<ol>  <li>In a medium bowl stir together the graham crumbs, sugar & cinnamon. Then stir in the melted butter.</li><li>Press the mixture into the bottom of a 9-inch springform pan.</li><li>Place in the freezer as you make the filling.</li><li>Cheesecake Filling</li><li>Blot the pumpkin with a paper towel and squeeze out the excess liquid. I do this many times to remove as much liquid as possible.</li><li>In a large bowl beat the heavy cream until stiff peaks form.</li><li>In a separate large bowl beat the cream cheese until soft. Then beat in the sugars and pumpkin pie spice.</li><li>Mix in the vanilla extract and pumpkin puree.</li><li>Gently fold the whipped cream into the cream cheese mixture using a rubber spatula.</li><li>Take the crust out of the freezer. Spoon the cheesecake mixture over top and spread the top smooth.</li><li>Place in the fridge to chill for at least 6 hours.**</li><li>When ready to serve, trace a very thin sharp knife around the edges of the pan, then unclamp the springform.</li><li>Top with whipped cream, slice into pieces & serve. </li>  </ol>",
+    "Tags": {
+      "MealType": "Dessert",
+      "Method": "Fridge",
+      "Category": "Cake"
+    }
   }
-],
-"Ingredients":[
-  "1 ½ cups graham crumbs",
-  "2 tabelspoons brown sugar",
-  "½ teaspoon cinnamon",
-  "6 tablespoons unsalted butter , melted",
-  "2 cups pumpkin puree , or use a 15oz can",
-  "⅔ cup heavy cream , 33% MF or more",
-  "24 oz cream cheese , use brick-style, full-fat cream cheese",
-  "1 cup powdered sugar",
-  "½ cup brown sugar",
-  "1 tablespoon pumpkin pie spice , or make your own - see recipe notes",
-  "2 teaspoons vanilla extract"
-],
-  "Instructions": "<ol>  <li>In a medium bowl stir together the graham crumbs, sugar & cinnamon. Then stir in the melted butter.</li><li>Press the mixture into the bottom of a 9-inch springform pan.</li><li>Place in the freezer as you make the filling.</li><li>Cheesecake Filling</li><li>Blot the pumpkin with a paper towel and squeeze out the excess liquid. I do this many times to remove as much liquid as possible.</li><li>In a large bowl beat the heavy cream until stiff peaks form.</li><li>In a separate large bowl beat the cream cheese until soft. Then beat in the sugars and pumpkin pie spice.</li><li>Mix in the vanilla extract and pumpkin puree.</li><li>Gently fold the whipped cream into the cream cheese mixture using a rubber spatula.</li><li>Take the crust out of the freezer. Spoon the cheesecake mixture over top and spread the top smooth.</li><li>Place in the fridge to chill for at least 6 hours.**</li><li>When ready to serve, trace a very thin sharp knife around the edges of the pan, then unclamp the springform.</li><li>Top with whipped cream, slice into pieces & serve. </li>  </ol>",
-  "Tags": {
-    "MealType": "Dessert",
-    "Method": "Fridge",
-    "Category": "Cake"
-  }
-}
-  ]
+]

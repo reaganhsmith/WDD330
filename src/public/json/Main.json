@@ -1,105 +1,125 @@
 [
   {
-      "Id": "M1",
-      "source": "https://pipingpotcurry.com/instant-pot-vegetable-lo-mein/#wprm-recipe-container-11405",
-      "Name": "Instant Pot Vegtable Lo Mein",
-      "Group": "Noodles",
-      "Time": {
-        "PrepTime": "5",
-        "CookTime": "20",
-        "TotalTime": "25"
-      },
-      
-      "Servings": "4",
-      "Image": "https://bellyfull.net/wp-content/uploads/2022/08/Lo-Mein-blog-3.jpg",
-      "Nutrition": [
-        {
+    "Id": "M1",
+    "source": "https://pipingpotcurry.com/instant-pot-vegetable-lo-mein/#wprm-recipe-container-11405",
+    "Name": "Instant Pot Vegtable Lo Mein",
+    "Group": "Noodles",
+    "Time": {
+      "PrepTime": "5",
+      "CookTime": "20",
+      "TotalTime": "25"
+    },
+
+    "Servings": "4",
+    "Image": "https://bellyfull.net/wp-content/uploads/2022/08/Lo-Mein-blog-3.jpg",
+    "Nutrition": [
+      {
         "Calories": "257",
         "Carbs": "50",
         "Protein": "9",
         "Fats": "2"
       }
     ],
-    "Ingredients": ["8 Ounces Noodles", "1/4tsp salt", "1/4tsp black pepper", "Sesame Seeds", "2 C Vegetable Broth", "2tsp Sesame Oil", "1 tsp Ginger", "1 tsp Garlc", "3 TBSP Soy Sauce", "1 TBSP Vinegar", "1-2tsp Red Chili Paste", "1tsp Brown Sugar", "1/2c Cabbage", "1 Carrot", "1/2c Bell Pepper", "1/4c Scallion", "1/2c Broccoli"],
-      "Instructions": "<ol>  <li>In a bowl, add all the sauce ingredients. Whisk until evenly combined. Taste and adjust as needed.</li>  <li> Add the noodles to the instant pot (break spaghetti in half).</li>  <li>Pour the above sauce into the pot above the noodles. Add vegetables on top except broccoli. (check the video)</li>   <li>Seal your Instant Pot and set to manual, high pressure, 4 minutes. (see note for cooking time)</li>    <liWhen Instant Pot is done cooking, do a quick pressure release.Open the lid and add the broccoli florets (make sure they are cut into small pieces). Stir the noodles with tongs several times, breaking up any that may have clumped together during cooking. Add salt and black pepper to taste. Close the lid for 5 minute so the broccoli get cooked (do not pressure cook in this step). </li>     <li>Open the lid. Sprinkle some green onions and sesame seeds and serve.</li></ol>",
-      "Tags": {
-        "MealType": "Dinner",
-        "FoodType": "Oriental",
-        "Method": "InstantPot",
-        "Category": "Noodles"
-      }
+    "Ingredients": [
+      "8 Ounces Noodles",
+      "1/4tsp salt",
+      "1/4tsp black pepper",
+      "Sesame Seeds",
+      "2 C Vegetable Broth",
+      "2tsp Sesame Oil",
+      "1 tsp Ginger",
+      "1 tsp Garlc",
+      "3 TBSP Soy Sauce",
+      "1 TBSP Vinegar",
+      "1-2tsp Red Chili Paste",
+      "1tsp Brown Sugar",
+      "1/2c Cabbage",
+      "1 Carrot",
+      "1/2c Bell Pepper",
+      "1/4c Scallion",
+      "1/2c Broccoli"
+    ],
+    "Instructions": "<ol>  <li>In a bowl, add all the sauce ingredients. Whisk until evenly combined. Taste and adjust as needed.</li>  <li> Add the noodles to the instant pot (break spaghetti in half).</li>  <li>Pour the above sauce into the pot above the noodles. Add vegetables on top except broccoli. (check the video)</li>   <li>Seal your Instant Pot and set to manual, high pressure, 4 minutes. (see note for cooking time)</li>    <liWhen Instant Pot is done cooking, do a quick pressure release.Open the lid and add the broccoli florets (make sure they are cut into small pieces). Stir the noodles with tongs several times, breaking up any that may have clumped together during cooking. Add salt and black pepper to taste. Close the lid for 5 minute so the broccoli get cooked (do not pressure cook in this step). </li>     <li>Open the lid. Sprinkle some green onions and sesame seeds and serve.</li></ol>",
+    "Tags": {
+      "MealType": "Dinner",
+      "FoodType": "Oriental",
+      "Method": "InstantPot",
+      "Category": "Noodles"
+    }
+  },
+  {
+    "Id": "M2",
+    "source": "https://unboundwellness.com/copycat-sweetgreen-harvest-bowl/#tasty-recipes-20604-jump-target",
+    "Name": "Copy Cat Sweetgreen Harvest Bowl",
+    "Group": "GlutenFree",
+    "Time": {
+      "PrepTime": "20",
+      "CookTime": "40",
+      "TotalTime": "60"
     },
-    {
-      "Id": "M2",
-      "source": "https://unboundwellness.com/copycat-sweetgreen-harvest-bowl/#tasty-recipes-20604-jump-target",
-      "Name": "Copy Cat Sweetgreen Harvest Bowl",
-      "Group": "GlutenFree",
-      "Time": {
-        "PrepTime": "20",
-        "CookTime": "40",
-        "TotalTime": "60"
-      },
-      "Servings": "4",
-      "Image": "https://unboundwellness.com/wp-content/uploads/2022/09/harvest_bowl_3.jpg",
-      "Nutrition": [
-        {
+    "Servings": "4",
+    "Image": "https://unboundwellness.com/wp-content/uploads/2022/09/harvest_bowl_3.jpg",
+    "Nutrition": [
+      {
         "Calories": "619",
         "Carbs": "33",
         "Protein": "35",
         "Fats": "39"
       }
     ],
-    "Ingredients": ["1 large sweet potato, peeled and chopped",
-    "1 tbsp avocado oil",
-    "Salt and pepper",
-    "1 lb chicken breast",
-    "Salt and pepper",
-    "1 tsp dried thyme",
-    "1 tsp dried rosemary",
-    "1 tsp garlic powder",
-    "2 tsp dried parsley",
-    "2 tbsp avocado oil",
-    "3 tbsp olive oil",
-    "2 tbsp balsamic vinegar",
-    "1 tbsp honey",
-    "2 tbsp coconut yogurt",
-    "Salt and pepper",
-    "1 tsp garlic powder",
-    "1 head kale, destemmed and chopped",
-    "1 tbsp olive oil",
-    "Pinch of salt",
-    "1 gala apple, sliced",
-    "1/3 cup wild rice, cooked",
-    "1/4 cup almonds, chopped",
-    "1/4 cup goat cheese, crumbled"],
-      "Instructions": "<ol>  <li><strong>To make the sweet potato</strong>, preheat the oven to 415 F and line a baking sheet. Toss the sweet potato with the oil and seasonings and bake in the oven for 25-30 minutes, tossing halfway through until crisp. Set aside.</li>  <li><strong>To make the chicken</strong>, season the chicken generously on both sides. Using a large pan, heat the oil over medium heat. Sear the chicken on both sides until cooked through. Allow to rest before cutting into cubes.</li> <li><strong>To make the dressing</strong>, combine the ingredients in a bowl and whisk to combine until smooth and creamy.</li> <li><strong>To assemble the salad</strong>, add the kale to a large bowl and top with olive oil and salt. Massage the kale with clean hands for 2-3 minutes or until the kale begins to soften. Top the salad with cooked sweet potato, chicken, wild rice, apple, almonds, goat cheese, and dressing. Toss before serving.</li></ol>",
-      "Tags": {
-        "MealType": "Dinner",
-        "Method": "stove",
-        "Category": "Salad"
-      }
+    "Ingredients": [
+      "1 large sweet potato, peeled and chopped",
+      "1 tbsp avocado oil",
+      "Salt and pepper",
+      "1 lb chicken breast",
+      "Salt and pepper",
+      "1 tsp dried thyme",
+      "1 tsp dried rosemary",
+      "1 tsp garlic powder",
+      "2 tsp dried parsley",
+      "2 tbsp avocado oil",
+      "3 tbsp olive oil",
+      "2 tbsp balsamic vinegar",
+      "1 tbsp honey",
+      "2 tbsp coconut yogurt",
+      "Salt and pepper",
+      "1 tsp garlic powder",
+      "1 head kale, destemmed and chopped",
+      "1 tbsp olive oil",
+      "Pinch of salt",
+      "1 gala apple, sliced",
+      "1/3 cup wild rice, cooked",
+      "1/4 cup almonds, chopped",
+      "1/4 cup goat cheese, crumbled"
+    ],
+    "Instructions": "<ol>  <li><strong>To make the sweet potato</strong>, preheat the oven to 415 F and line a baking sheet. Toss the sweet potato with the oil and seasonings and bake in the oven for 25-30 minutes, tossing halfway through until crisp. Set aside.</li>  <li><strong>To make the chicken</strong>, season the chicken generously on both sides. Using a large pan, heat the oil over medium heat. Sear the chicken on both sides until cooked through. Allow to rest before cutting into cubes.</li> <li><strong>To make the dressing</strong>, combine the ingredients in a bowl and whisk to combine until smooth and creamy.</li> <li><strong>To assemble the salad</strong>, add the kale to a large bowl and top with olive oil and salt. Massage the kale with clean hands for 2-3 minutes or until the kale begins to soften. Top the salad with cooked sweet potato, chicken, wild rice, apple, almonds, goat cheese, and dressing. Toss before serving.</li></ol>",
+    "Tags": {
+      "MealType": "Dinner",
+      "Method": "stove",
+      "Category": "Salad"
+    }
+  },
+  {
+    "Id": "M3",
+    "source": "https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/",
+    "Name": "Creamy Roasted Cauliflower",
+    "Group": "GlutenFree",
+    "Time": {
+      "PrepTime": "15",
+      "CookTime": "55",
+      "TotalTime": "70"
     },
-    {
-      "Id": "M3",
-      "source": "https://cookieandkate.com/creamy-roasted-cauliflower-soup-recipe/",
-      "Name": "Creamy Roasted Cauliflower",
-      "Group": "GlutenFree",
-      "Time": {
-        "PrepTime": "15",
-        "CookTime": "55",
-        "TotalTime": "70"
-      },
-      "Servings": "4",
-      "Image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2021-09-cauliflour-soup%2F2021-09-13_ATK6844",
-      "Nutrition": [
-        {
+    "Servings": "4",
+    "Image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2021-09-cauliflour-soup%2F2021-09-13_ATK6844",
+    "Nutrition": [
+      {
         "Calories": "--",
         "Carbs": "--",
         "Protein": "--",
         "Fats": "--"
       }
     ],
-    "Ingredients":[
+    "Ingredients": [
       "1 large head cauliflower (about 2 pounds)",
       "3 tablespoons extra-virgin olive oil, divided",
       "Fine sea salt",
@@ -111,12 +131,12 @@
       "Scant ¼ teaspoon ground nutmeg",
       "For garnish: 2 tablespoons finely chopped fresh flat-leaf parsley, chives and/or green onions"
     ],
-      "Instructions": "<ol>  <li>Preheat the oven to 425 degrees Fahrenheit. If desired, line a large, rimmed baking sheet with parchment paper for easy cleanup.</li>  <li>On the baking sheet, toss the cauliflower with 2 tablespoons of the olive oil until lightly and evenly coated in oil. Arrange the cauliflower in a single layer and sprinkle lightly with salt. Bake until the cauliflower is tender and caramelized on the edges, 25 to 35 minutes, tossing halfway.</li>  <li>Once the cauliflower is almost done, in a Dutch oven or soup pot, warm the remaining 1 tablespoon olive oil over medium heat until shimmering. Add the onion and ¼ teaspoon salt. Cook, stirring occasionally, until the onion is softened and turning translucent, 5 to 7 minutes.</li>  <li>Add the garlic and cook, stirring constantly, until fragrant, about 30 seconds, then add the broth.</li>  <li>Reserve 4 of the prettiest roasted cauliflower florets for garnish. Then transfer the remaining cauliflower to the pot. Increase the heat to medium-high and bring the mixture to a simmer, then reduce the heat as necessary to maintain a gentle simmer. Cook, stirring occasionally, for 20 minutes, to give the flavors time to meld.</li>  <li>Once the soup is done cooking, remove the pot from the heat and let it cool for a few minutes. Then, carefully transfer the hot soup to a blender, working in batches if necessary. (Do not fill past the maximum fill line or the soup could overflow!)</li>  <li>Add the butter and blend until smooth. Add the lemon juice and nutmeg and blend again. Add additional salt, to taste (I usually add another ¼ to ¾ teaspoon, depending on the broth). This soup tastes amazing once it’s properly salted! You can also a little more lemon juice, if it needs more zing. Blend again.</li> <li>Top individual bowls of soup with 1 roasted cauliflower floret and a sprinkle of chopped parsley, green onion and/or chives. This soup keeps well in the refrigerator, covered, for about four days, or for several months in the freezer.</li></ol>",
-      "Tags": {
-        "MealType": "Dinner",
-        "Method": "Stove",
-        "Category": "Soup"
-      }
+    "Instructions": "<ol>  <li>Preheat the oven to 425 degrees Fahrenheit. If desired, line a large, rimmed baking sheet with parchment paper for easy cleanup.</li>  <li>On the baking sheet, toss the cauliflower with 2 tablespoons of the olive oil until lightly and evenly coated in oil. Arrange the cauliflower in a single layer and sprinkle lightly with salt. Bake until the cauliflower is tender and caramelized on the edges, 25 to 35 minutes, tossing halfway.</li>  <li>Once the cauliflower is almost done, in a Dutch oven or soup pot, warm the remaining 1 tablespoon olive oil over medium heat until shimmering. Add the onion and ¼ teaspoon salt. Cook, stirring occasionally, until the onion is softened and turning translucent, 5 to 7 minutes.</li>  <li>Add the garlic and cook, stirring constantly, until fragrant, about 30 seconds, then add the broth.</li>  <li>Reserve 4 of the prettiest roasted cauliflower florets for garnish. Then transfer the remaining cauliflower to the pot. Increase the heat to medium-high and bring the mixture to a simmer, then reduce the heat as necessary to maintain a gentle simmer. Cook, stirring occasionally, for 20 minutes, to give the flavors time to meld.</li>  <li>Once the soup is done cooking, remove the pot from the heat and let it cool for a few minutes. Then, carefully transfer the hot soup to a blender, working in batches if necessary. (Do not fill past the maximum fill line or the soup could overflow!)</li>  <li>Add the butter and blend until smooth. Add the lemon juice and nutmeg and blend again. Add additional salt, to taste (I usually add another ¼ to ¾ teaspoon, depending on the broth). This soup tastes amazing once it’s properly salted! You can also a little more lemon juice, if it needs more zing. Blend again.</li> <li>Top individual bowls of soup with 1 roasted cauliflower floret and a sprinkle of chopped parsley, green onion and/or chives. This soup keeps well in the refrigerator, covered, for about four days, or for several months in the freezer.</li></ol>",
+    "Tags": {
+      "MealType": "Dinner",
+      "Method": "Stove",
+      "Category": "Soup"
+    }
   },
   {
     "Id": "M4",
@@ -132,162 +152,161 @@
     "Image": "https://diethood.com/wp-content/uploads/2019/05/Honey-Sriracha-Baked-Chicken-6.jpg",
     "Nutrition": [
       {
-      "Calories": "211",
-      "Carbs": "13",
-      "Protein": "25",
-      "Fats": "6"
-    }
-  ],
-  "Ingredients":[
-    "¼ cup Sriracha Sauce or Hot Chili Sauce, you can also use sweet chili sauce",
-    "2 tablespoons honey",
-    "1 tablespoon low sodium soy sauce",
-    "1 tablespoon white vinegar",
-    "2 tablespoons lime juice",
-    "3 cloves garlic, minced",
-    "1 tablespoon vegetable oil",
-    "4 boneless, skinless chicken breasts",
-    "salt and fresh ground black pepper, to taste",
-    "½ teaspoon sweet paprika",
-    "½ teaspoon garlic powder",
-    "½ teaspoon dried thyme",
-    "½ teaspoon dried basil",
-    "1 tablespoon cornstarch",
-    "chopped fresh cilantro or parsley",
-    "sesame seeds",
-    "lime wedges"
-  ],
+        "Calories": "211",
+        "Carbs": "13",
+        "Protein": "25",
+        "Fats": "6"
+      }
+    ],
+    "Ingredients": [
+      "¼ cup Sriracha Sauce or Hot Chili Sauce, you can also use sweet chili sauce",
+      "2 tablespoons honey",
+      "1 tablespoon low sodium soy sauce",
+      "1 tablespoon white vinegar",
+      "2 tablespoons lime juice",
+      "3 cloves garlic, minced",
+      "1 tablespoon vegetable oil",
+      "4 boneless, skinless chicken breasts",
+      "salt and fresh ground black pepper, to taste",
+      "½ teaspoon sweet paprika",
+      "½ teaspoon garlic powder",
+      "½ teaspoon dried thyme",
+      "½ teaspoon dried basil",
+      "1 tablespoon cornstarch",
+      "chopped fresh cilantro or parsley",
+      "sesame seeds",
+      "lime wedges"
+    ],
     "Instructions": "<ol>  <li>Preheat oven to 375°F.</li><li>Lightly grease a 9×13 baking dish with cooking spray and set aside.</li><li>Combine sriracha sauce, honey, soy sauce, vinegar, lime juice, and garlic in a small mixing bowl; whisk until thoroughly incorporated and set aside.</li><li>Heat the vegetable oil in a skillet.</li><li>Season the chicken breasts with salt, pepper, paprika, garlic powder, dried thyme, and dried basil. Add chicken breasts to the skillet and cook for 2 minutes on each side or until just browned.</li><li>Transfer the chicken breasts to the baking dish.</li><li>Pour the honey-sriracha sauce over the chicken breasts, turning the chicken over to cover each chicken breast entirely with the sriracha sauce.</li><li>Cover with foil and bake for 20 minutes.</li><li>Remove the cover and continue to bake for 15 minutes or until the chicken is cooked through. Cooking time will vary depending on the size/thickness of the chicken. Use an Instant Read Meat Thermometer and pull out the chicken when its internal temperature registers at 165˚F.</li><li>Remove the chicken from the oven and spoon out about 3 tablespoons of the sauce into a small cup. Whisk the cornstarch into the cup and whisk until well combined.</li><li>Stir the cornstarch slurry back into the baking dish and put the chicken back in the oven; cook for 1 to 2 minutes or until the sauce has slightly thickened.</li><li>Remove from oven and let stand for 5 minutes.</li><li>Spoon the sauce over the chicken.</li><li>Garnish with cilantro and sesame seeds and serve with lime wedges.</li></ol>",
     "Tags": {
       "MealType": "Dinner",
       "Method": "Oven",
       "Category": "Chicken"
     }
-},
-{
-  "Id": "M5",
-  "source": "https://www.sixsistersstuff.com/recipe/honey-lime-chicken-enchiladas-recipe/",
-  "Name": "Honey Lime Chicken Enchiiladas",
-  "Group": "Chicken",
-  "Time": {
-    "PrepTime": "45",
-    "CookTime": "30",
-    "TotalTime": "75"
   },
-  "Servings": "8",
-  "Image": "https://www.sixsistersstuff.com/wp-content/uploads/2011/05/Honey-Lime-Chicken-Enchiladas-from-SixSistersStuff.jpg",
-  "Nutrition": [
-    {
-    "Calories": "431",
-    "Carbs": "35",
-    "Protein": "20",
-    "Fats": "24"
-  }
-],
-"Ingredients":[
-  "6 Tablespoons honey",
-  "5 Tablespoons lime juice",
-  "1 Tablespoon chili powder",
-  "1/2 teaspoon garlic powder",
-  "3 boneless, skinless chicken breasts cooked and shredded",
-  "16 ounces green enchilada sauce divided",
-  "10 flour tortillas",
-  "2 cups shredded cheddar cheese divided",
-  "1 cup heavy cream"
-],
-  "Instructions": "<ol>  <li>Whisk together marinade ingredients and toss with shredded chicken in a resealable gallon-sized bag or airtight container.</li> <li>Let chicken mixture marinate in the fridge for at least 30 minutes, but preferably a few hours.</li><li>Preheat oven to 350 degrees F.</li><li>Pour 1/2 cup enchilada sauce on the bottom of a 9 X 13 inch baking pan.</li><li>Fill the tortillas with chicken, saving marinade (if any left), and shredded cheese, reserving about 1 cup of cheese to sprinkle on top of enchiladas.</li><li>Placed rolled tortillas into prepared pan.</li><li>Mix the remaining enchilada sauce with heavy cream and leftover marinade, if any, and pour on top of enchiladas.</li><li>Sprinkle with remaining cheese. Bake for 30 minutes, or until brown and crispy on top.</li></ol>",
-  "Tags": {
-    "MealType": "Dinner",
-    "Method": "Oven",
-    "Category": "Chicken"
-  }
-},
-{
-  "Id": "M6",
-  "source": "https://www.cookingclassy.com/white-chicken-chili/#jump-to-recipe",
-  "Name": "White Chicken Chili",
-  "Group": "GlutenFree",
-  "Time": {
-    "PrepTime": "15",
-    "CookTime": "35",
-    "TotalTime": "50"
+  {
+    "Id": "M5",
+    "source": "https://www.sixsistersstuff.com/recipe/honey-lime-chicken-enchiladas-recipe/",
+    "Name": "Honey Lime Chicken Enchiiladas",
+    "Group": "Chicken",
+    "Time": {
+      "PrepTime": "45",
+      "CookTime": "30",
+      "TotalTime": "75"
+    },
+    "Servings": "8",
+    "Image": "https://www.sixsistersstuff.com/wp-content/uploads/2011/05/Honey-Lime-Chicken-Enchiladas-from-SixSistersStuff.jpg",
+    "Nutrition": [
+      {
+        "Calories": "431",
+        "Carbs": "35",
+        "Protein": "20",
+        "Fats": "24"
+      }
+    ],
+    "Ingredients": [
+      "6 Tablespoons honey",
+      "5 Tablespoons lime juice",
+      "1 Tablespoon chili powder",
+      "1/2 teaspoon garlic powder",
+      "3 boneless, skinless chicken breasts cooked and shredded",
+      "16 ounces green enchilada sauce divided",
+      "10 flour tortillas",
+      "2 cups shredded cheddar cheese divided",
+      "1 cup heavy cream"
+    ],
+    "Instructions": "<ol>  <li>Whisk together marinade ingredients and toss with shredded chicken in a resealable gallon-sized bag or airtight container.</li> <li>Let chicken mixture marinate in the fridge for at least 30 minutes, but preferably a few hours.</li><li>Preheat oven to 350 degrees F.</li><li>Pour 1/2 cup enchilada sauce on the bottom of a 9 X 13 inch baking pan.</li><li>Fill the tortillas with chicken, saving marinade (if any left), and shredded cheese, reserving about 1 cup of cheese to sprinkle on top of enchiladas.</li><li>Placed rolled tortillas into prepared pan.</li><li>Mix the remaining enchilada sauce with heavy cream and leftover marinade, if any, and pour on top of enchiladas.</li><li>Sprinkle with remaining cheese. Bake for 30 minutes, or until brown and crispy on top.</li></ol>",
+    "Tags": {
+      "MealType": "Dinner",
+      "Method": "Oven",
+      "Category": "Chicken"
+    }
   },
-  "Servings": "6",
-  "Image": "https://www.cookingclassy.com/wp-content/uploads/2013/05/white-chicken-chili-44-500x500.jpg",
-  "Nutrition": [
-    {
-    "Calories": "383",
-    "Carbs": "35",
-    "Protein": "33",
-    "Fats": "14"
-  }
-],
-"Ingredients":[
-  "1 small yellow onion , diced",
-  "1 tbsp olive oil",
-  "2 cloves garlic , finely minced",
-  "2 (14.5 oz) cans low-sodium chicken broth",
-  "1 (7 oz) can diced green chilies",
-  "1 1/2 tsp cumin",
-  "1/2 tsp paprika",
-  "1/2 tsp dried oregano",
-  "1/2 tsp ground coriander",
-  "1/4 tsp cayenne pepper",
-  "salt and freshly ground black pepper , to taste",
-  "1 (8 oz) pkg Neufchatel cheese (aka light cream cheese), cut into small cubes",
-  "1 1/4 cup frozen or fresh corn",
-  "2 (15 oz) cans cannellini beans",
-  "2 1/2 cups shredded cooked rotisserie or left-over chicken*",
-  "1 Tbsp fresh lime juice",
-  "2 Tbsp chopped fresh cilantro, plus more for serving",
-  "Tortilla chips or strips, monterrey jack cheese, sliced avocado for serving (optional)"
-  
-],
-  "Instructions": "<ol>  <li>Heat olive oil in a large pot over medium-high heat. Add onion and saute 4 minutes minutes. Add garlic and saute 30 seconds longer.</li><li>Add chicken broth, green chilies, cumin, paprika, oregano, coriander, cayenne pepper and season with salt and pepper to taste. Bring mixture just to a boil then reduce heat to medium-low and simmer 15 minutes.</li><li>Drain and rinse beans in a fine mesh strainer or colander then measure out 1 cup. Set whole beans aside, transfer 1 cup beans to a food processor along with 1/4 cup broth from soup, puree until nearly smooth**.</li><li>Add Neufchatel cheese to soup along with corn, whole beans and pureed beans and stir well. Simmer 5 - 10 minutes longer.</li> <li>Stir in chicken, fresh lime juice and cilantro. Serve with Monterrey Jack cheese, more cilantro, avocado slices and tortilla chips if desired.</li></ol>",
-  "Tags": {
-    "MealType": "Dinner",
-    "Method": "Stove",
-    "Category": "Soup"
-  }
-},
-{
-  "Id": "M7",
-  "source": "https://www.lecremedelacrumb.com/honey-sriracha-chicken/",
-  "Name": "Honey Sriracha Chicken",
-  "Group": "Dinner",
-  "Time": {
-    "PrepTime": "20",
-    "CookTime": "10",
-    "TotalTime": "30"
+  {
+    "Id": "M6",
+    "source": "https://www.cookingclassy.com/white-chicken-chili/#jump-to-recipe",
+    "Name": "White Chicken Chili",
+    "Group": "GlutenFree",
+    "Time": {
+      "PrepTime": "15",
+      "CookTime": "35",
+      "TotalTime": "50"
+    },
+    "Servings": "6",
+    "Image": "https://www.cookingclassy.com/wp-content/uploads/2013/05/white-chicken-chili-44-500x500.jpg",
+    "Nutrition": [
+      {
+        "Calories": "383",
+        "Carbs": "35",
+        "Protein": "33",
+        "Fats": "14"
+      }
+    ],
+    "Ingredients": [
+      "1 small yellow onion , diced",
+      "1 tbsp olive oil",
+      "2 cloves garlic , finely minced",
+      "2 (14.5 oz) cans low-sodium chicken broth",
+      "1 (7 oz) can diced green chilies",
+      "1 1/2 tsp cumin",
+      "1/2 tsp paprika",
+      "1/2 tsp dried oregano",
+      "1/2 tsp ground coriander",
+      "1/4 tsp cayenne pepper",
+      "salt and freshly ground black pepper , to taste",
+      "1 (8 oz) pkg Neufchatel cheese (aka light cream cheese), cut into small cubes",
+      "1 1/4 cup frozen or fresh corn",
+      "2 (15 oz) cans cannellini beans",
+      "2 1/2 cups shredded cooked rotisserie or left-over chicken*",
+      "1 Tbsp fresh lime juice",
+      "2 Tbsp chopped fresh cilantro, plus more for serving",
+      "Tortilla chips or strips, monterrey jack cheese, sliced avocado for serving (optional)"
+    ],
+    "Instructions": "<ol>  <li>Heat olive oil in a large pot over medium-high heat. Add onion and saute 4 minutes minutes. Add garlic and saute 30 seconds longer.</li><li>Add chicken broth, green chilies, cumin, paprika, oregano, coriander, cayenne pepper and season with salt and pepper to taste. Bring mixture just to a boil then reduce heat to medium-low and simmer 15 minutes.</li><li>Drain and rinse beans in a fine mesh strainer or colander then measure out 1 cup. Set whole beans aside, transfer 1 cup beans to a food processor along with 1/4 cup broth from soup, puree until nearly smooth**.</li><li>Add Neufchatel cheese to soup along with corn, whole beans and pureed beans and stir well. Simmer 5 - 10 minutes longer.</li> <li>Stir in chicken, fresh lime juice and cilantro. Serve with Monterrey Jack cheese, more cilantro, avocado slices and tortilla chips if desired.</li></ol>",
+    "Tags": {
+      "MealType": "Dinner",
+      "Method": "Stove",
+      "Category": "Soup"
+    }
   },
-  "Servings": "4",
-  "Image": "https://www.lecremedelacrumb.com/wp-content/uploads/2023/08/Srirachachicken-11b-2-scaled.jpg",
-  "Nutrition": [
-    {
-    "Calories": "347",
-    "Carbs": "37",
-    "Protein": "39",
-    "Fats": "4"
+  {
+    "Id": "M7",
+    "source": "https://www.lecremedelacrumb.com/honey-sriracha-chicken/",
+    "Name": "Honey Sriracha Chicken",
+    "Group": "Dinner",
+    "Time": {
+      "PrepTime": "20",
+      "CookTime": "10",
+      "TotalTime": "30"
+    },
+    "Servings": "4",
+    "Image": "https://www.lecremedelacrumb.com/wp-content/uploads/2023/08/Srirachachicken-11b-2-scaled.jpg",
+    "Nutrition": [
+      {
+        "Calories": "347",
+        "Carbs": "37",
+        "Protein": "39",
+        "Fats": "4"
+      }
+    ],
+    "Ingredients": [
+      "3-4 chicken breasts - diced",
+      "⅓ cup corn starch",
+      "1 cup water",
+      "2-3 tablespoons sriracha - (depending on how spicy you want it)",
+      "5 tablespoons soy sauce",
+      "1 tablespoon minced garlic",
+      "¼ cup sugar",
+      "2-3 tablespoons honey - (depending on how sweet you want it)",
+      "2 tablespoons corn starch",
+      "2 tablespoons cold water",
+      "optional: crushed red pepper flakes, cooked rice for serving"
+    ],
+    "Instructions": "<ol>  <li>In a small-medium sauce pan, combine the 1 cup of water, sriracha, soy sauce, garlic, sugar, and honey and stir. Bring mixture to a boil over medium heat. </li><li>Whisk together the 2 tablespoons corn starch and remaining 2 tablespoons of water until dissolved. Add to sauce pan and stir until thickened. Reduce heat to low.</li><li>Add diced chicken and 1/3 cup corn starch to a large plastic bag. Seal the bag and shake to coat chicken. Drizzle a large pan or skillet with oil over medium heat. Add chicken and sauté until browned and chicken is cooked through. </li><li>Add the sauce and stir to coat. Sprinkle with crushed pepper flakes if desired and serve over warm rice.</li></ol>",
+    "Tags": {
+      "MealType": "Dinner",
+      "Method": "Stove",
+      "Category": "Chicken"
+    }
   }
-],
-"Ingredients":[
-  "3-4 chicken breasts - diced",
-  "⅓ cup corn starch",
-  "1 cup water",
-  "2-3 tablespoons sriracha - (depending on how spicy you want it)",
-  "5 tablespoons soy sauce",
-  "1 tablespoon minced garlic",
-  "¼ cup sugar",
-  "2-3 tablespoons honey - (depending on how sweet you want it)",
-  "2 tablespoons corn starch",
-  "2 tablespoons cold water",
-  "optional: crushed red pepper flakes, cooked rice for serving"
-],
-  "Instructions": "<ol>  <li>In a small-medium sauce pan, combine the 1 cup of water, sriracha, soy sauce, garlic, sugar, and honey and stir. Bring mixture to a boil over medium heat. </li><li>Whisk together the 2 tablespoons corn starch and remaining 2 tablespoons of water until dissolved. Add to sauce pan and stir until thickened. Reduce heat to low.</li><li>Add diced chicken and 1/3 cup corn starch to a large plastic bag. Seal the bag and shake to coat chicken. Drizzle a large pan or skillet with oil over medium heat. Add chicken and sauté until browned and chicken is cooked through. </li><li>Add the sauce and stir to coat. Sprinkle with crushed pepper flakes if desired and serve over warm rice.</li></ol>",
-  "Tags": {
-    "MealType": "Dinner",
-    "Method": "Stove",
-    "Category": "Chicken"
-  }
-}
 ]

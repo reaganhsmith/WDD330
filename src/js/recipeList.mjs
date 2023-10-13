@@ -11,30 +11,25 @@ export default class RecipeListing {
     async init() {
         try {
             if(this.category === "main" || this.category === "sides" || this.category === "desserts"){
-                console.log(this.dataSource.getData(this.category))
                 this.recipes = await this.dataSource.getData(this.category);
         }else{
                 this.recipes = await this.dataSource.findRecipesByGroup(this.category);
                 
             }
         } catch (error) {
-            console.error("Error fetching products:", error);
+            console.error("Error fetching recipes:", error);
             this.recipes = [];
         }
 
         if (Array.isArray(this.recipes) && this.recipes.length > 0) {
             this.renderList(this.recipes);
         } else {
-            console.warn("No products to display.");
+            console.warn("No recipes to display.");
         }
     }
 
     renderList(list, position = "afterbegin", clear = false) {
         renderListWithTemplate(RecipeTemplate, this.listElement, list, position, clear);
-    }
-
-    updateList(sortedProducts) {
-        this.renderList(sortedProducts, "afterbegin", true);
     }
 
 }
