@@ -8,7 +8,7 @@ function convertToJson(res) {
 
 export default class RecipeData {
   constructor() {
-    this.path = '../json/';
+    this.path = '../public/json/';
   }
 
   async getData(category) {
