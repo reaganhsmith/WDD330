@@ -1,0 +1,322 @@
+ [
+    {
+      "Id": "S1",
+      "source": "https://sallysbakingaddiction.com/soft-dinner-rolls/",
+      "Name": "Soft Dinner Rolls",
+      "Group": "Bread",
+      "Time": {
+        "PrepTime": "205",
+        "CookTime": "22",
+        "TotalTime": "227"
+      },
+      
+      "Servings": "15",
+      "Image": "https://sallysbakingaddiction.com/wp-content/uploads/2019/03/dinner-rolls-in-pan.jpg",
+      "Nutrition": [
+        {
+        "Calories": "--",
+        "Carbs": "--",
+        "Protein": "--",
+        "Fats": "--"
+      }
+    ],
+    "Ingredients": [
+        "1 cup (240ml) whole milk, warmed to about 110°F (43°C)",
+        "2 and 1/4 teaspoons Platinum Yeast from Red Star instant yeast (1 standard packet)",
+        "2 Tablespoons granulated sugar, divided",
+        "1 large egg",
+        "1/4 cup (56g) unsalted butter, softened to room temperature and cut into 4 pieces",
+        "1 teaspoon salt",
+        "3 cups (390g) all-purpose flour or bread flour* (spooned & leveled)"
+    ],
+      "Instructions": "<ol>  <li><strong>Prepare the dough:</strong> Whisk the warm milk, yeast, and 1 Tablespoon of sugar together in the bowl of your stand mixer. Cover and allow to sit for 5 minutes. *If you do not own a stand mixer, you can do this in a large mixing bowl and in the next step, mix the dough together with a large wooden spoon/rubber spatula. It will take a bit of arm muscle. A hand mixer works, but the sticky dough repeatedly gets stuck in the beaters. Mixing by hand with a wooden spoon or rubber spatula is a better choice.*</li>   <li>Add the remaining sugar, egg, butter, salt, and 1 cup flour. With a dough hook or paddle attachment, mix/beat on low speed for 30 seconds, scrape down the sides of the bowl with a rubber spatula, then add the remaining flour. Beat on medium speed until the dough comes together and pulls away from the sides of the bowl, about 2 minutes. If the dough seems too wet to a point where kneading (next step) would be impossible, beat in more flour 1 Tablespoon at a time until you have a workable dough, similar to the photos above. Dough should be soft and a little sticky, but still manageable to knead with lightly floured hands.</li>   <li><strong>Knead the dough:</strong> Keep the dough in the mixer and beat for an additional 3 full minutes or knead by hand on a lightly floured surface for 3 full minutes.</li>   <li><strong>1st Rise:</strong> Lightly grease a large bowl with oil or nonstick spray. Place the dough in the bowl, turning it to coat all sides in the oil. Cover the bowl with aluminum foil, plastic wrap, or a clean kitchen towel. Allow the dough to rise in a relatively warm environment for 1-2 hours or until double in size. </li>   <li>Grease a 9×13 inch baking pan or two 9-inch square or round baking pans. You can also bake the rolls in a cast iron skillet or on a lined baking sheet.*</li>   <li><strong>Shape the rolls:</strong> When the dough is ready, punch it down to release the air. Divide the dough into 14-16 equal pieces. (Just eyeball it– doesn’t need to be perfect!) A bench scraper is always helpful for cutting dough. Shape each piece into a smooth ball. Arrange in prepared baking pan.</li>   <li><strong>2nd Rise: </strong> Cover shaped rolls with aluminum foil, plastic wrap, or a clean kitchen towel. Allow to rise until puffy, about 1 hour.</li>   <li>Adjust oven rack to a lower position and preheat oven to 350°F (177°C). (It’s best to bake the rolls towards the bottom of the oven so the tops don’t burn.)</li>   <li><strong>Bake the rolls</strong>: Bake for 20-25 minutes or until golden brown on top, rotating the pan halfway through. If you notice the tops browning too quickly, loosely tent the pan with aluminum foil. Remove from the oven, brush with optional honey butter topping, and allow rolls to cool for a few minutes before serving.</li>   <li>Cover leftover rolls tightly and store at room temperature for 2-3 days or in the refrigerator for up to 1 week.</li>   </ol>",
+      "Tags": {
+        "MealType": "Sides",
+        "Method": "Oven",
+        "Category": "Bread"
+      }
+    },
+    {
+      "Id": "S2",
+      "source": "https://www.delish.com/cooking/recipe-ideas/recipes/a52468/roasted-garlic-mashed-potatoes/",
+      "Name": "Garlic Mashed Potatos",
+      "Group": "GlutenFree",
+      "Time": {
+        "PrepTime": "10",
+        "CookTime": "45",
+        "TotalTime": "55"
+      },
+      "Servings": "6-8",
+      "Image": "https://hips.hearstapps.com/hmg-prod/images/211104-delish-seo-garlic-mash-potatoes-vertical-v2-0078-eb-1636756962.jpg?crop=0.810xw:0.886xh;0.190xw,0&resize=980:*",
+      "Nutrition": [
+        {
+        "Calories": "477",
+        "Carbs": "38",
+        "Protein": "6",
+        "Fats": "32"
+      }
+    ],
+    "Ingredients": [
+        "Extra-virgin olive oil, for drizzling",
+        "1 head garlic, top sliced off",
+        "4 lb. Red Bliss potatoes, peeled and chopped",
+        "Kosher salt",
+        "1 1/2 sticks butter, melted",
+        "1 c. heavy cream, warmed",
+        "2 tbsp. balsamic vinegar",
+        "1 tbsp. chopped fresh parsley"
+    ],
+      "Instructions": "<ol> <li>Preheat oven to 400°. Drizzle olive oil over top of garlic and wrap in foil. Bake until golden and soft, about 45 minutes, then set aside.</li> <li>Meanwhile, add potatoes to a large pot. Cover potatoes with a few inches of water (about 6 cups) and season with salt; cover pot and bring to a boil. After about 30 minutes, check if potatoes are soft (a knife should easily slide through them), then drain in a colander.</li><li>In a large bowl, mash or rice potatoes, then slowly add melted butter, cream and garlic. Add balsamic, season generously with salt, and garnish with parsley. Serve immediately.</li></ol>",
+      "Tags": {
+        "MealType": "Side",
+        "Method": "Oven",
+        "Category": "Potato"
+      }
+    },
+    {
+      "Id": "S3",
+      "source": "https://www.delish.com/cooking/recipe-ideas/a38761308/garlic-knots-recipe/",
+      "Name": "Garlic Knots",
+      "Group": "Bread",
+      "Time": {
+        "PrepTime": "15",
+        "CookTime": "20",
+        "TotalTime": "35"
+      },
+      "Servings": "16",
+      "Image": "https://hips.hearstapps.com/hmg-prod/images/garlicknots3-1642515010.jpg?resize=980:*",
+      "Nutrition": [
+        {
+        "Calories": "--",
+        "Carbs": "--",
+        "Protein": "--",
+        "Fats": "--"
+      }
+    ],
+    "Ingredients":[
+      "1 (1 lb.) package store-bought pizza dough",
+      "8 tbsp. (1 stick) unsalted butter",
+      "6 cloves garlic, minced or grated",
+      "1/2 tsp. kosher sal",
+      "2 tbsp. parsley, minced",
+      "1/4 c. freshly grated Parmesan"
+    ],
+      "Instructions": "<ol><li>Remove pizza dough from the refrigerator and let rest until at room temperature.</li><li>Adjust oven rack to center position and preheat to 400°. Line 2 baking sheets with parchment paper.</li><li>In a small pot, melt butter over low heat. Add garlic and salt, and cook until starting to froth. Immediately remove the pot from the heat. Set aside to cool.</li><li>On a lightly floured surface, stretch the dough into a rectangle about 12” by 10”. Using a pizza wheel or sharp knife, cut the dough rectangle into quarters, then cut each quarter vertically into 4 equal dough strips, each about 6” long. Roll each strip into a rope and tie into a knot, tucking ends into the center. Place knots on the parchment-lined baking sheets, spacing them at least 1” apart from each other, and brush with about one-third of the melted garlic butter. (Try to avoid using the pieces of garlic, as they may burn in the oven).</li><li>Bake for 15-20 minutes, or until golden brown, rotating the trays halfway through. While the knots are baking, stir parsley into the remaining melted garlic butter. (If the butter has solidified, briefly reheat it on the stove before adding the parsley). </li><li>After the knots are baked, immediately toss with garlic parsley butter. Shower with Parmesan cheese and serve.</li></ol>",
+      "Tags": {
+        "MealType": "Sides",
+        "Method": "Oven",
+        "Category": "Bread"
+      }
+    },
+    {
+      "Id": "S4",
+      "source": "https://www.allrecipes.com/recipe/222352/jamies-sweet-and-easy-corn-on-the-cob/",
+      "Name": "Corn on the Cob",
+      "Group": "GlutenFree",
+      "Time": {
+        "PrepTime": "",
+        "CookTime": "",
+        "TotalTime": ""
+      },
+      "Servings": "6",
+      "Image": "https://www.allrecipes.com/thmb/aGjFhi_KOB42fWrGO2W2gJz0usA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/222352-jamies-sweet-and-easy-corn-on-the-cob-rae-3x2-1-de041c9cd6ab4b40808368dc5cd96757.jpg",
+      "Nutrition": [
+        {
+        "Calories": "94",
+        "Carbs": "22",
+        "Protein": "3",
+        "Fats": "1"
+      }
+    ],
+    "Ingredients":[
+      "2 tablespoons white sugar",
+      "1 tablespoon lemon juice",
+      "6 ears corn on the cob, husks and silk removed"
+    ],
+      "Instructions": "<ol><li>Fill a large pot about 3/4 full of water and bring to a boil. Stir in sugar and lemon juice until sugar is dissolved.</li><li>Gently place ears of corn into boiling water, cover the pot, turn off the heat, and let corn cook in the hot water until tender, about 10 minutes.</li></ol>",
+      "Tags": {
+        "MealType": "Sides",
+        "Method": "Stove",
+        "Category": "Vegtable"
+      }
+    },
+    {
+      "Id": "S4",
+      "source": "https://www.taste.com.au/recipes/best-roast-potatoes/b16f44b7-ab7b-412d-977b-7702d5754965?r=recipes/top50sidedishes&c=9eFALYHf/Top%2050%20side%20dishes",
+      "Name": "Roasted Potatos",
+      "Group": "GlutenFree",
+      "Time": {
+        "PrepTime": "15",
+        "CookTime": "145",
+        "TotalTime": "200"
+      },
+      "Servings": "6",
+      "Image": "https://www.foodnetwork.com/content/dam/images/food/fullset/2003/9/29/0/ig1a07_roasted_potatoes.jpg",
+      "Nutrition": [
+        {
+        "Calories": "340",
+        "Carbs": "--",
+        "Protein": "--",
+        "Fats": "--"
+      }
+    ],
+    "Ingredients":[
+      "1kg Coliban or Sebago potatoes",
+      "2 tbsp olive oil",
+      "Salt flakes, to season"
+    ],
+      "Instructions": "<ol><li>Preheat oven to 200°C or 180C fan-forced. Peel potatoes and cut into 5cm chunks. Place into a large saucepan. Cover with cold water.<li>Bring to the boil over medium-high heat. Reduce heat to medium. Simmer for 5-10 minutes or until partially cooked (potatoes should be only just tender when pierced with a skewer).</li><li>Drain potatoes well. Return to saucepan over low heat until any remaining water evaporates. Shake saucepan vigorously to rough up surface of potatoes (this will make them crunchy when roasted). Alternatively, scrape surfaces of potatoes with a fork to create a rough texture.</li><li>Pour oil into a large roasting pan. Place roasting pan into oven for 5 minutes or until oil is hot. Working quickly, add potatoes to hot oil. Use tongs to turn potatoes to coat in oil, then return roasting pan to oven.</li><li>Roast potatoes for 40 minutes. Turn and roast for a further 30 minutes or until golden and crisp. Season with salt. Serve immediately.</li></ol>",
+      "Tags": {
+        "MealType": "Sides",
+        "Method": "Oven",
+        "Category": "Potatos"
+      }
+    },
+    {
+      "Id": "S5",
+      "source": "https://www.spendwithpennies.com/30-minute-dinner-rolls/#wprm-recipe-container-136278",
+      "Name": "30 Minute Dinner Rolls",
+      "Group": "Bread",
+      "Time": {
+        "PrepTime": "20",
+        "CookTime": "10",
+        "TotalTime": "30"
+      },
+      "Servings": "18",
+      "Image": "https://www.spendwithpennies.com/wp-content/uploads/2014/02/30-Minute-Dinner-Rolls-26.jpg",
+      "Nutrition": [
+        {
+        "Calories": "134",
+        "Carbs": "19",
+        "Protein": "3",
+        "Fats": "5"
+      }
+    ],
+    "Ingredients":[
+          "1 cup warm tap water",
+          "▢⅓ cup oil",
+          "¼ cup sugar",
+          "2 tablespoons yeast",
+          "1 egg beaten",
+          "1 tablespoon softened butter",
+          "½ teaspoon salt",
+          "3 to 4 cups all-purpose flour I used closer to 3",
+          "⅛ cup milk room temperature"
+    ],
+      "Instructions": "<ol><li>Preheat oven to 400*F.</li> <li>In a large bowl, combine 1 cup water, oil, sugar, and yeast. Let sit until yeast is bubbly (about 8 minutes). Stir in beaten egg, softened butter, and salt.</li><li>With a stand mixer or by hand, add flour, one cup at a time until you have a soft dough that isn’t sticky. Knead by hand 10 minutes or 5 minutes with a stand mixer.</li><li>Divide dough into 18 even pieces, and form into balls. Place in a greased pan and cover with parchment paper and a kitchen towel.</li><li> Let rise 10 minutes in a warm place. (You can allow them to rise up to an additional 30 minutes if time allows).</li><li>Lightly brush with milk and bake on the middle rack for 10-12 minutes or just until browned.</li></ol>",
+      "Tags": {
+        "MealType": "Sides",
+        "Method": "Oven",
+        "Category": "Bread"
+      }
+    },
+    {
+      "Id": "S6",
+      "source": "https://www.eatwell101.com/mexican-street-corn-salad-recipe",
+      "Name": "Mexican Street Corn Salad",
+      "Group": "GlutenFree",
+      "Time": {
+        "PrepTime": "5",
+        "CookTime": "12",
+        "TotalTime": "17"
+      },
+      "Servings": "4",
+      "Image": "https://www.eatwell101.com/wp-content/uploads/2023/05/Mexican-Street-Corn-Salad-recipe.jpg",
+      "Nutrition": [
+        {
+        "Calories": "215",
+        "Carbs": "33",
+        "Protein": "6",
+        "Fats": "9"
+      }
+    ],
+    "Ingredients":[
+          "6 ears fresh corn, shucked",
+          "1/4 cup sour cream (or Mexican crema if you can find it)",
+          "1/4 cup mayonnaise (optional)",
+          "Juice of 2 limes",
+          "1 medium clove garlic, grated",
+          "1/2 teaspoon chili powder (we like Ancho chili powder for its subtle smokiness)",
+          "1/4 cup Cotija cheese, finely crumbled (or Feta)",
+          "1/2 cup fresh cilantro leaves, finely chopped",
+          "1/2 teaspoon Kosher salt"
+    ],
+      "Instructions": "<ol><li>To make the Mexican street corn salad: Preheat your grill to high heat. Grill the shucked corn, turning occasionally until charred spots appear, about 2 to 3 minutes per side. Do not let it cook too long – you want it to retain a little crunch and juice.</li><li>Let the corn cool a little so you can handle it. Cut the corn kernels off the cob using a sharp knife and transfer them to a large bowl.</li><li>Add sour cream, mayo (if using), cilantro, garlic, Cotija, lime juice, and chili powder to the bowl with the grilled corn kernels and combine. Adjust seasoning with salt if needed (Cotija is already salty, so go easy on the salt!)</li><li>Transfer the Mexican street corn salad to a large platter–or leave it in the same bowl–and sprinkle generously with more cotija cheese and garnish with chopped cilantro and slices of lime.  Enjoy! ❤️</li></ol>",
+      "Tags": {
+        "MealType": "Sides",
+        "Category": "Salad"
+      }
+    },
+    {
+      "Id": "S7",
+      "source": "https://www.aheadofthyme.com/oven-roasted-vegetables/",
+      "Name": "Oven Roasted Vegetables",
+      "Group": "GlutenFree",
+      "Time": {
+        "PrepTime": "15",
+        "CookTime": "40",
+        "TotalTime": "55"
+      },
+      "Servings": "6",
+      "Image": "https://www.aheadofthyme.com/wp-content/uploads/2022/11/oven-roasted-vegetables-6.jpg",
+      "Nutrition": [
+        {
+        "Calories": "137",
+        "Carbs": "20",
+        "Protein": "4",
+        "Fats": "5"
+      }
+    ],
+    "Ingredients":[
+          "1 pound Brussels sprouts, halved",
+          "1 medium red onion, cut into 1-inch pieces",
+          " 2 carrots, peeled and sliced",
+          "2 bell peppers, cut into 1-inch pieces",
+          "2 cup broccoli florets",
+          "2 medium yellow potatoes, cut into 1-inch cubes",
+          "2 tablespoons olive oil",
+          "1 tablespoon balsamic vinegar",
+          "½ teaspoon salt (or to taste)",
+          "¼ teaspoon ground black pepper (or to taste)",
+          "¼ teaspoon Italian seasoning"
+    ],
+      "Instructions": "<ol><li>Preheat the oven to 400F.</li><li>Wash the veggies, remove any seeds, and chop them up into similar sized pieces (1-inch pieces)</li><li>In a large mixing bowl, add all the vegetables. Drizzle with olive oil and vinegar and season with salt, pepper and Italian seasoning. Toss to combine with a spatula until evenly coated.</li><li>Arrange the vegetables in a single layer on a large sheet pan. Roast for 40 minutes until tender.</li><li>Serve warm. </li> </ol>",
+      "Tags": {
+        "MealType": "Sides",
+        "Category": "Veggies"
+      }
+    },
+    {
+      "Id": "S8",
+      "source": "https://www.aheadofthyme.com/honey-roasted-carrots/",
+      "Name": "Honey Roasted Carrots",
+      "Group": "GlutenFree",
+      "Time": {
+        "PrepTime": "15",
+        "CookTime": "35",
+        "TotalTime": "50"
+      },
+      "Servings": "4",
+      "Image": "https://www.aheadofthyme.com/wp-content/uploads/2021/03/honey-roasted-carrots-3.jpg",
+      "Nutrition": [
+        {
+        "Calories": "132",
+        "Carbs": "18",
+        "Protein": "0",
+        "Fats": "7"
+      }
+    ],
+    "Ingredients":[
+          "1 pound Baby Carrots",
+          "2 tablespoons honey",
+          "¼ teaspoon salt",
+          "⅛ teaspoon ground black pepper",
+          "1 tablespoon fresh parsley, chopped (optional, for garnish)"
+    ],
+      "Instructions": "<ol><li>Preheat oven to 400 F. Line a large half sheet baking pan with parchment paper.</li><li>Place carrots onto the baking sheet.</li><li>In a small bowl, combine olive oil, honey, salt, and pepper, and stir until smooth. Pour over the carrots and toss to combine.</li><li>Arrange carrots in a single later and place sheet pan into the oven.</li><li>Bake for 25-35 minutes until tender. Note that depending on how thick your carrots are, the roasting time may vary. Thicker carrots will need more time.</li><li>Garnish with fresh parsley on top (optional).</li> </ol>",
+      "Tags": {
+        "MealType": "Sides",
+        "Category": "Veggies"
+      }
+    }
+  ]
