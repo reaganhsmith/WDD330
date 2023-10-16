@@ -61,7 +61,7 @@ footer img {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin: 0 15rem;
+  margin: 2rem 15rem;
 }
 
 /*------------Hero CSS ------------*/
@@ -286,6 +286,25 @@ button:hover{
 
 .weatherRight p{
   font-size: 16px;
+}
+
+
+.backArrow span{
+  font-size: 48px;
+  color: var(--primary-color);
+}
+
+.backArrow span:hover{
+  animation: spin .5s linear 1;
+}
+
+@keyframes spin{
+  to{
+    transform: rotate(0);
+  }
+  from{
+    transform: rotate(360deg);
+  }
 }
 
 

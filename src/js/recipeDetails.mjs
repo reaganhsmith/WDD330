@@ -8,7 +8,9 @@ function recipeDetailsTemplate(recipe) {
   });
   ingredientsList += '</ul>';
 
-  return `<section class="recipeDetails"> 
+  return `
+  <a href="javascript:history.back()" class="backArrow"> <span class="material-symbols-outlined"> arrow_back</span> </a>
+<section class="recipeDetails"> 
   <div class="recipeDetIMG">
     <img
       src="${recipe.Image}"
