@@ -27,10 +27,32 @@ export default class RecipeListing {
         } else {
             console.warn("No recipes to display.");
         }
+
+        const timeSort = document.querySelector(".cookTime");
+        timeSort.addEventListener("click", () => this.sortTime());
+        const ingSort = document.querySelector(".ingrd");
+        ingSort.addEventListener("click", ()=> this.sortIng());
+
     }
 
     renderList(list, position = "afterbegin", clear = false) {
         renderListWithTemplate(RecipeTemplate, this.listElement, list, position, clear);
+    }
+
+    updateList(sorted){
+        this.renderList(sorted, "afterbegin", true)
+    }
+
+    sortTime(){
+        const sortedTime = [...this.recipes].sort((a,b) =>
+        parseInt(a.Time.TotalTime) - parseInt(b.Time.TotalTime));
+        this.updateList(sortedTime)
+    }
+
+    sortIng(){
+        const sortedIng = [...this.recipes].sort((a,b) =>
+        parseInt(a.Ingredients.length) - parseInt(b.Ingredients.length));
+        this.updateList(sortedIng)
     }
 
 }
