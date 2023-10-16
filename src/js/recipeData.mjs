@@ -21,7 +21,7 @@ export default class RecipeData {
   
 
   async getRecipeData() {
-    const categories = ["Main", "Desserts", "Sides"];
+    const categories = ["main", "desserts", "sides"];
     const data = {};
 
     for (const category of categories) {
@@ -33,7 +33,7 @@ export default class RecipeData {
   }
 
   async findRecipeById(id) {
-    const categories = ["Main", "Desserts", "Sides"];
+    const categories = ["main", "desserts", "sides"];
 
     for (const category of categories) {
       const recipes = await this.getData(category);
@@ -46,7 +46,7 @@ export default class RecipeData {
   }
 
   async findRecipesByGroup(group) {
-    const categories = ["Main", "Desserts", "Sides"];
+    const categories = ["main", "desserts", "sides"];
     const matchingRecipes = [];
     for (const category of categories) {
       const recipes = await this.getData(category);
