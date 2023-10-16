@@ -88,19 +88,9 @@ h1 {
   border-bottom: solid 3px var(--third-color);
 }
 
-.allRecipes button {
-  border: none;
-  color: var(--primary-color);
-  background-color: var(--secondary-color);
-  padding: 1rem;
-  font-weight: 300;
-  font-size: 32px;
-  margin-top: -2rem;
-  text-decoration: underline;
-}
 
-.recipeDetails button:hover,
-.allRecipes button:hover {
+
+.recipeDetails button:hover{
   background-color: var(--primary-color);
   color: var(--secondary-color);
 }
@@ -186,8 +176,12 @@ h1 {
   font-weight: 300;
   font-size: 32px;
   text-decoration: underline;
+  
+  margin: 2rem;
 }
-
+button:hover{
+  animation: wiggle 2s linear infinite;
+}
 .recipeDetails h1 {
   font-size: 38px;
 }
@@ -286,10 +280,35 @@ h1 {
 
 
 .weatherLeft{
-  border-right: solid 2px var(--third-color);
+  border-right: solid 4px var(--third-color);
   padding-right: 1rem;
 }
 
 .weatherRight p{
   font-size: 16px;
+}
+
+
+@keyframes wiggle {
+  0%, 7% {
+    transform: rotateZ(0);
+  }
+  15% {
+    transform: rotateZ(-15deg);
+  }
+  20% {
+    transform: rotateZ(10deg);
+  }
+  25% {
+    transform: rotateZ(-10deg);
+  }
+  30% {
+    transform: rotateZ(6deg);
+  }
+  35% {
+    transform: rotateZ(-4deg);
+  }
+  40%, 100% {
+    transform: rotateZ(0);
+  }
 }
