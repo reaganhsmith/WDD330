@@ -1,13 +1,20 @@
 import { getLocalStorage } from "./utils.mjs";
+import { loadHeaderFooter } from "./utils.mjs";
 
 function renderFavPage() {
+
   const favRecipe = getLocalStorage("fav-recipe");
+
+  if(favRecipe){
   const htmlItems = favRecipe.map((recipe) => favRecipeTemplate(recipe));
-  document.querySelector(".favorite-list").innerHTML = htmlItems.join("");
+  document.querySelector(".recipe-list").innerHTML = htmlItems.join("");}
+  else{
+    document.querySelector(".recipe-list").innerHTML = "Sorry you have not yet favorited any recipes:)";
+  }
 }
 
 function favRecipeTemplate(recipe) {
-  const newItem = `<li class="Favrecipe">
+  const newItem = `<li class="recipe-card">
   <a href="#" class="recipeIMG">
     <img
       src="${recipe.Image}"
@@ -22,4 +29,6 @@ function favRecipeTemplate(recipe) {
 
   return newItem;
 }
+
+loadHeaderFooter();
 renderFavPage();
