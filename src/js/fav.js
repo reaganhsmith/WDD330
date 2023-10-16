@@ -15,7 +15,7 @@ function renderFavPage() {
 
 function favRecipeTemplate(recipe) {
   const newItem = `<li class="recipe-card">
-  <a href="#" class="recipeIMG">
+  <a href="../recipe/index.html?recipe=${recipe.Id}">
     <img
       src="${recipe.Image}"
       alt="${recipe.Name}"

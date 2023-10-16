@@ -60,16 +60,22 @@ export default class RecipeDetails {
         recipeDetailsTemplate(this.recipe)
       );
     }
-
-    addToStorage(recipe){
-      if(!this.recipeArray){
+    addToStorage(recipe) {
+      if (!this.recipeArray) {
         this.recipeArray = [];
       }
       let favContent = getLocalStorage("fav-recipe");
-      if(favContent){
+      if (favContent) {
         this.recipeArray = favContent;
       }
-      this.recipeArray.push(recipe);
+      const existingRecipe = this.recipeArray.find(rec => rec.Id === recipe.Id);
+      if (!existingRecipe) {
+        this.recipeArray.push(recipe);
+      } else {
+        alert(`${this.recipe.Name} Is already in your favorites.`);
+      }
+    
+      // Update the local storage with the modified recipe array
       setLocalStorage("fav-recipe", this.recipeArray);
     }
 

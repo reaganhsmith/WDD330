@@ -36,15 +36,28 @@ function weatherDisplay(data) {
     return timeStamp;
   }
 
-  return `<h4>Weather</h4>
-      <img src="https://openweathermap.org/img/w/${data.weather[0].icon}.png" alt="${data.weather[0].description}">
-      <h5> <span class="material-symbols-outlined">
+  const today = new Date().toDateString();
+
+  console.log(data);
+  return `<h4> <span class="material-symbols-outlined">
       location_on
-      </span> ${data.name} </h5>
-      <h6>${data.main.feels_like}°F </h6>
+      </span> ${data.name} </h4>
+      <div class="weath">
+      <div class="weatherLeft"> 
+      <h5>${data.main.feels_like.toFixed(0)}°F</h5>
+      <div class="weatherDesc">
+      <img src="https://openweathermap.org/img/w/${data.weather[0].icon}.png" alt="${data.weather[0].description}">
       <p> ${data.weather[0].description}</p>
+      </div>
+      <p> ${today} </p>
+      
+      </div><div class="weatherRight">
+      <p> High: ${data.main.temp_max.toFixed(0)}°F </p>
+      <p> Low: ${data.main.temp_min.toFixed(0)}°F </p>
+      <p> Wind Speed: ${data.wind.speed}mph</p>
       <p> Sunset: ${sunrise}AM</p>
       <p> Sunset: ${sunset}PM </p>
+      </div></div>
       `;
 }
 apiFetch();
