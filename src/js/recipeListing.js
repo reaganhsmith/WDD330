@@ -7,12 +7,12 @@ loadHeaderFooter();
 var category = getParams("category");
 
 if (category) {
-  const data = new RecipeData(category);
+  const data = new RecipeData();
   console.log(category);
   createPage(category, data);
 } else {
   category = getParams("group");
-  const dataSRC = new RecipeData(category);
+  const dataSRC = new RecipeData();
   createPage(category, dataSRC);
 }
 
