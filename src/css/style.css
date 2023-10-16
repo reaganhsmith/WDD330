@@ -104,6 +104,8 @@ h1 {
   color: var(--secondary-color);
 }
 
+/*------------ RECIPE LISTING STYLE ------------*/
+
 .recipe-list {
   list-style-type: none;
   display: flex;
@@ -117,12 +119,12 @@ h1 {
   padding: 1rem;
   box-shadow: 5px 5px 5px 1px rgba(160, 195, 217, 0.5);
   color: var(--primary-color);
-  width: 30%;
+  width: 20%;
   margin: 1rem;
 }
 .recipe-card img {
   width: 300px;
-  height: 400px;
+  height: 300px;
   object-fit: cover;
 }
 
@@ -135,6 +137,25 @@ h1 {
 
 .titleName h1 {
   font-size: 32px;
+}
+
+@media (max-width: 700px) {
+  .recipe-list {
+    list-style-type: none;
+    display: block;
+  }
+
+  .recipe-card {
+    width:  80%;
+    margin: 1rem;
+  }
+
+  .recipe-card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
 }
 
 /*------- FOR THE RECIPE DETAILS  -----------*/
@@ -209,4 +230,10 @@ h1 {
 
 .filter:hover{
   background-image: linear-gradient(to right, var(--third-color),  var(--primary-color));
+}
+
+.filterBtns {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
 }
