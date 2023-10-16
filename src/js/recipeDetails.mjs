@@ -1,4 +1,4 @@
-// import { setLocalStorage, getLocalStorage} from "./utils.mjs";
+import { setLocalStorage, getLocalStorage} from "./utils.mjs";
 
 
 function recipeDetailsTemplate(recipe) {
@@ -40,12 +40,16 @@ export default class RecipeDetails {
       this.recipeId = recipeId;
       this.recipe = {};
       this.dataSource = dataSource;
+      this.recipeArray = [];
 
     }
     async init() {
 
       this.recipe = await this.dataSource.findRecipeById(this.recipeId);
       this.renderRecipeDetails("main");
+
+      const favBtn = document.querySelector("#addToFav");
+      favBtn.addEventListener("click", this.addFav.bind(this))
 
 
     }
@@ -55,5 +59,21 @@ export default class RecipeDetails {
         "afterBegin",
         recipeDetailsTemplate(this.recipe)
       );
+    }
+
+    addToStorage(recipe){
+      if(!this.recipeArray){
+        this.recipeArray = [];
+      }
+      let favContent = getLocalStorage("fav-recipe");
+      if(favContent){
+        this.recipeArray = favContent;
+      }
+      this.recipeArray.push(recipe);
+      setLocalStorage("fav-recipe", this.recipeArray);
+    }
+
+    addFav(){
+      this.addToStorage(this.recipe);
     }
   }
