@@ -38,7 +38,6 @@ function weatherDisplay(data) {
 
   const today = new Date().toDateString();
 
-  console.log(data);
   return `<h4> <span class="material-symbols-outlined">
       location_on
       </span> ${data.name} </h4>

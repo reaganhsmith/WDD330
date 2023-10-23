@@ -298,6 +298,21 @@ button:hover{
   animation: spin .5s linear 1;
 }
 
+.delete{
+  background-color: transparent;
+  border:none;
+}
+
+.delete span{
+  font-size: 42px;
+}
+
+
+
+
+
+
+
 @keyframes spin{
   to{
     transform: rotate(0);
